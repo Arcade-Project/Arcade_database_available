@@ -1,3 +1,4 @@
 nom,date_breach,date_upload_arcade,header,clean,description,affected_accounts
 Bouygues Telecom,August 2025,24/09/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,the French telecommunications company Bouygues Telecom detected a cyber attack against their services,5.7M
 CoinMarketCap,October 2021,20/08/2025,email,0,cryptocurrency market,3.1M
+Deezer,April 2019,14/09/2025,dates_of_birth:email:gender;geographic_location:ip_addresses:names:spoken_languages:usernames,0,Music streaming service,229M
