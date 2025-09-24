@@ -2,3 +2,10 @@ nom,date_breach,date_upload_arcade,header,clean,description,affected_accounts
 Bouygues Telecom,August 2025,24/09/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,the French telecommunications company Bouygues Telecom detected a cyber attack against their services,5.7M
 CoinMarketCap,October 2021,20/08/2025,email,0,cryptocurrency market,3.1M
 Deezer,April 2019,14/09/2025,dates_of_birth:email:gender;geographic_location:ip_addresses:names:spoken_languages:usernames,0,Music streaming service,229M
+000webhost,March 2015,14/09/2025,email:ip_addresses:names:passwords,0,Web hosting service,14.9M
+123RF,March 2020, 24/09/2025,email:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,Stock photo site,8.7M
+126,January 2012,12/07/2025,email:passwords,0,Chinese email service,6.4M
+17,April 2016, 14/09/2025,device_ids:email:ip_addresses:usernames:passwords,0,Streaming app,4M
+17173,December 2011,12/07/2025,email:passwords:usernames,0,Chinese gaming site,7.5M
+7k7k,January 2011,12/07/2025,email:passwords:usernames,0,Chinese gaming site,9.1M
+8tracks,June 2017,14/09/2025,email:passwords,0,Music streaming service,18M
