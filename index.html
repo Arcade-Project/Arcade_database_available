@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcade Database - Breaches</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+
+        <div class="search-section">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Rechercher par nom, date, description...">
+                <button id="searchBtn">🔍</button>
+                <button id="clearFilters">Effacer</button>
+            </div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-number" id="totalBreaches">0</span>
+                <span class="stat-label">Total breaches</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="cleanBreaches">0</span>
+                <span class="stat-label">Clean</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="visibleBreaches">0</span>
+                <span class="stat-label">Affichées</span>
+            </div>
+        </div>
+
+        <div class="table-container">
+            <table id="breachesTable">
+                <thead>
+                    <tr>
+                        <th class="sortable" data-column="nom">
+                            Nom <span class="sort-arrow"></span>
+                        </th>
+                        <th class="sortable" data-column="date_breach">
+                            Date Breach <span class="sort-arrow"></span>
+                        </th>
+                        <th class="sortable" data-column="date_upload_arcade">
+                            Upload Arcade <span class="sort-arrow"></span>
+                        </th>
+                        <th class="sortable" data-column="header">
+                            Header <span class="sort-arrow"></span>
+                        </th>
+                        <th class="sortable" data-column="clean">
+                            Clean <span class="sort-arrow"></span>
+                        </th>
+                        <th class="sortable" data-column="taille">
+                            Taille <span class="sort-arrow"></span>
+                        </th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody id="breachesTableBody">
+                    <!-- Les données seront chargées ici par JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Chargement des données...</p>
+        </div>
+
+        <div id="noResults" class="no-results" style="display: none;">
+            <p>Aucun résultat trouvé</p>
+            <p>Essayez avec d'autres mots-clés</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
