@@ -148,7 +148,7 @@ function createTableRow(breach) {
         <td>${formatDate(breach.date_upload_arcade)}</td>
         <td><code class="header-column" title="${escapeHtml(breach.header)}">${escapeHtml(breach.header)}</code></td>
         <td><span class="clean-status clean-${breach.clean}">${breach.clean === '1' ? 'Clean' : 'Non-clean'}</span></td>
-        <td class="size-column">${escapeHtml(breach.taille)}</td>
+        <td class="size-column">${escapeHtml(breach.affected_accounts)}</td>
         <td>${escapeHtml(breach.description)}</td>
     `;
     
@@ -165,12 +165,19 @@ function createTableRow(breach) {
 function formatDate(dateString) {
     if (!dateString) return '-';
     
+    if (dateString.match(/^\d{1,2}\/\d{1,2}\/\d{4}$/)) {
+        return dateString;
+    }
+    
+    if (dateString.match(/^[A-Za-z]{3}\s\d{4}$/)) {
+        return dateString;
+    }
+    
     try {
         const date = new Date(dateString);
         return date.toLocaleDateString('fr-FR', {
             year: 'numeric',
-            month: '2-digit',
-            day: '2-digit'
+            month: 'short'
         });
     } catch (error) {
         return dateString;
@@ -195,7 +202,7 @@ function filterData() {
             breach.header.toLowerCase().includes(searchTerm) ||
             breach.date_breach.includes(searchTerm) ||
             breach.date_upload_arcade.includes(searchTerm) ||
-            breach.taille.toLowerCase().includes(searchTerm);
+            (breach.affected_accounts && breach.affected_accounts.toLowerCase().includes(searchTerm));
         
         return matchesSearch;
     });
@@ -245,22 +252,22 @@ function applySorting(column, direction) {
         let aVal = a[column] || '';
         let bVal = b[column] || '';
         
-    
+
         if (column === 'date_breach' || column === 'date_upload_arcade') {
-            aVal = new Date(aVal);
-            bVal = new Date(bVal);
+            aVal = parseDateToSortable(aVal);
+            bVal = parseDateToSortable(bVal);
         }
-    
+
         else if (column === 'clean') {
             aVal = parseInt(aVal);
             bVal = parseInt(bVal);
         }
-    
-        else if (column === 'taille') {
+
+        else if (column === 'affected_accounts') {
             aVal = parseSizeToNumber(aVal);
             bVal = parseSizeToNumber(bVal);
         }
-    
+
         else {
             aVal = aVal.toString().toLowerCase();
             bVal = bVal.toString().toLowerCase();
@@ -286,6 +293,35 @@ function parseSizeToNumber(sizeStr) {
         case 'M': return num * 1000000;
         case 'G': return num * 1000000000;
         default: return num;
+    }
+}
+
+function parseDateToSortable(dateStr) {
+    if (!dateStr) return new Date(0);
+    
+    const dmyMatch = dateStr.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+    if (dmyMatch) {
+        const [, day, month, year] = dmyMatch;
+        return new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+    }
+    
+    const monthYearMatch = dateStr.match(/^([A-Za-z]{3})\s(\d{4})$/);
+    if (monthYearMatch) {
+        const [, monthName, year] = monthYearMatch;
+        const monthMap = {
+            'Jan': 0, 'Feb': 1, 'Mar': 2, 'Apr': 3, 'May': 4, 'Jun': 5,
+            'Jul': 6, 'Aug': 7, 'Sep': 8, 'Oct': 9, 'Nov': 10, 'Dec': 11
+        };
+        const monthIndex = monthMap[monthName];
+        if (monthIndex !== undefined) {
+            return new Date(parseInt(year), monthIndex, 1);
+        }
+    }
+    
+    try {
+        return new Date(dateStr);
+    } catch (error) {
+        return new Date(0);
     }
 }
 
