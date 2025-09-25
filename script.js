@@ -70,8 +70,8 @@ async function loadBreachesData() {
         showLoading(false);
         
     } catch (error) {
-        console.error('Erreur lors du chargement des données:', error);
-        showError('Erreur lors du chargement des données. Vérifiez que le fichier breaches.csv existe.');
+        console.error('Error loading data:', error);
+        showError('Error loading data. Check that the breaches.csv file exists.');
         showLoading(false);
     }
 }
@@ -175,7 +175,7 @@ function formatDate(dateString) {
     
     try {
         const date = new Date(dateString);
-        return date.toLocaleDateString('fr-FR', {
+        return date.toLocaleDateString('en-US', {
             year: 'numeric',
             month: 'short'
         });
@@ -398,7 +398,7 @@ function showError(message) {
 
 function exportToCSV() {
     if (filteredData.length === 0) {
-        alert('Aucune donnée à exporter');
+        alert('No data to export');
         return;
     }
     
