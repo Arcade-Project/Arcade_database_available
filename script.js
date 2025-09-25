@@ -180,7 +180,7 @@ function createTableRow(breach) {
         <td>${formatDate(breach.date_breach)}</td>
         <td>${formatDate(breach.date_upload_arcade)}</td>
         <td><code class="header-column" title="${escapeHtml(breach.header)}">${escapeHtml(breach.header)}</code></td>
-        <td><span class="clean-status clean-${breach.clean}">${breach.clean === '1' ? 'Clean' : 'Non-clean'}</span></td>
+        <td><span class="clean-status clean-${breach.clean}">${breach.clean === '1' ? 'Clean' : 'Uncleaned'}</span></td>
         <td class="size-column">${escapeHtml(breach.affected_accounts)}</td>
         <td>${escapeHtml(breach.description)}</td>
     `;
