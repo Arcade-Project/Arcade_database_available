@@ -1,12 +1,12 @@
 nom,date_breach,date_upload_arcade,header,clean,description,affected_accounts
-cultura.com,September 2024,01/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,French retail chain for books, music & cultural products,1.5M
-bouyguestelecom.fr,August 2025,31/08/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,French telecommunications company,5.7M
-animeify.com,October 2021,29/11/2024,email_addresses:genders:names:passwords:usernames,0,Anime streaming and community platform,808K
-freeones.com,February 2017,23/03/2025,email_addresses:ip_addresses:passwords:usernames,0,Adult entertainment website,960.2K
-miljodata.se,August 2025,25/09/2025,dates_of_birth:email_addresses:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,Swedish HR and environmental data service,870.1K
-giglio.com,August 2025,16/10/2024,email_addresses:names:phone_numbers:physical_addresses,0,Italian luxury fashion e-commerce,1M
-thesqua.re,June 2025,20/10/2024,email_addresses:geographic_locations:names:phone_numbers,0,Serviced apartments and housing rentals company,107K
-allianzlife.com,July 2025,27/03/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,Insurance and financial services provider,1.1M
+Cultura,September 2024,01/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,French retail chain for books, music & cultural products,1.5M
+Bouygue Telecom,August 2025,31/08/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,French telecommunications company,5.7M
+Animeify,October 2021,29/11/2024,email_addresses:genders:names:passwords:usernames,0,Anime streaming and community platform,808K
+Freeones,February 2017,23/03/2025,email_addresses:ip_addresses:passwords:usernames,0,Adult entertainment website,960.2K
+Miljodata,August 2025,25/09/2025,dates_of_birth:email_addresses:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,Swedish HR and environmental data service,870.1K
+Giglio,August 2025,16/10/2024,email_addresses:names:phone_numbers:physical_addresses,0,Italian luxury fashion e-commerce,1M
+Thesqua.re,June 2025,20/10/2024,email_addresses:geographic_locations:names:phone_numbers,0,Serviced apartments and housing rentals company,107K
+Allianzlife,July 2025,27/03/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,Insurance and financial services provider,1.1M
 datatrolllogs,June 2025,16/10/2024,email_addresses:passwords,0,Malware stealer log compilation,109.5M
 unigame.com,December 2019,30/08/2025,email_addresses:passwords,0,Online gaming platform,843.7K
 pi-hole.net,July 2025,11/09/2024,email_addresses:names,0,Open-source network-wide ad blocker,29.9K
@@ -14,11 +14,11 @@ creamscafe.com,May 2025,13/08/2025,email_addresses:names:phone_numbers:physical_
 mareads.com,June 2025,27/03/2025,dates_of_birth:email_addresses:phone_numbers:usernames,0,Reading and e-book service,74.5K
 omnicuris.com,June 2025,02/12/2024,email_addresses:geographic_locations:names:phone_numbers,0,Medical e-learning platform,215.3K
 catwatchful.com,June 2025,18/09/2024,email_addresses:passwords,0,Parental control and monitoring software,61.6K
-Robinsons Malls,June 2024,24/07/2025,dates_of_birth:email_addresses:genders:geographic_locations:names:phone_numbers,0,,195.6K
-Have Fun Teaching,August 2021,20/06/2025,browser_user_agent_details:email_addresses:ip_addresses:names:payment_methods:physical_addresses:purchases,0,,27.1K
-Ualabee,May 2025,17/12/2024,dates_of_birth:email_addresses:names:phone_numbers:profile_photos,0,,472.3K
-WiredBucks,May 2022,01/03/2025,earnings:email_addresses:ip_addresses:names:passwords:physical_addresses:usernames,0,,918.5K
-Disk Union,June 2022,25/03/2025,email_addresses:geographic_locations:names:passwords:phone_numbers:usernames,0,,690.7K
+Robinsons Malls,June 2024,24/07/2025,dates_of_birth:email_addresses:genders:geographic_locations:names:phone_numbers,0,Philippine shopping mall chain,195.6K
+Have Fun Teaching,August 2021,20/06/2025,browser_user_agent_details:email_addresses:ip_addresses:names:payment_methods:physical_addresses:purchases,0,Educational resources platform for teachers,27.1K
+Ualabee,May 2025,17/12/2024,dates_of_birth:email_addresses:names:phone_numbers:profile_photos,0,Public transport and mobility app,472.3K
+WiredBucks,May 2022,01/03/2025,earnings:email_addresses:ip_addresses:names:passwords:physical_addresses:usernames,0,Online reward and earning platform,918.5K
+Disk Union,June 2022,25/03/2025,email_addresses:geographic_locations:names:passwords:phone_numbers:usernames,0,Japanese music retailer and record store chain,690.7K
 ColoCrossing,May 2025,02/07/2025,email_addresses:names:passwords,0,,7.2K
 Free,October 2024,07/12/2024,bank_account_numbers:dates_of_birth:genders:names:phone_numbers:physical_addresses,0,,13.9M
 Operation Endgame 2.0,May 2025,08/03/2025,email_addresses:passwords,0,,15.4M
