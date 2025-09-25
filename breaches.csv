@@ -1,19 +1,19 @@
 nom,date_breach,date_upload_arcade,header,clean,description,affected_accounts
-Cultura,September 2024,01/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,,1.5M
-Bouygues Telecom,August 2025,31/08/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,,5.7M
-Animeify,October 2021,29/11/2024,email_addresses:genders:names:passwords:usernames,0,,808K
-FreeOnes,February 2017,23/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,960.2K
-Miljödata,August 2025,25/09/2025,dates_of_birth:email_addresses:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,,870.1K
-Giglio,August 2025,16/10/2024,email_addresses:names:phone_numbers:physical_addresses,0,,1M
-TheSqua.re,June 2025,20/10/2024,email_addresses:geographic_locations:names:phone_numbers,0,,107K
-Allianz Life,July 2025,27/03/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,,1.1M
-Data Troll Stealer Logs,June 2025,16/10/2024,email_addresses:passwords,0,,109.5M
-Unigame,December 2019,30/08/2025,email_addresses:passwords,0,,843.7K
-Pi-hole,July 2025,11/09/2024,email_addresses:names,0,,29.9K
-Creams Cafe,May 2025,13/08/2025,email_addresses:names:phone_numbers:physical_addresses,0,,159.7K
-MaReads,June 2025,27/03/2025,dates_of_birth:email_addresses:phone_numbers:usernames,0,,74.5K
-Omnicuris,June 2025,02/12/2024,email_addresses:geographic_locations:names:phone_numbers,0,,215.3K
-Catwatchful,June 2025,18/09/2024,email_addresses:passwords,0,,61.6K
+cultura.com,September 2024,01/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,French retail chain for books, music & cultural products,1.5M
+bouyguestelecom.fr,August 2025,31/08/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,French telecommunications company,5.7M
+animeify.com,October 2021,29/11/2024,email_addresses:genders:names:passwords:usernames,0,Anime streaming and community platform,808K
+freeones.com,February 2017,23/03/2025,email_addresses:ip_addresses:passwords:usernames,0,Adult entertainment website,960.2K
+miljodata.se,August 2025,25/09/2025,dates_of_birth:email_addresses:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,Swedish HR and environmental data service,870.1K
+giglio.com,August 2025,16/10/2024,email_addresses:names:phone_numbers:physical_addresses,0,Italian luxury fashion e-commerce,1M
+thesqua.re,June 2025,20/10/2024,email_addresses:geographic_locations:names:phone_numbers,0,Serviced apartments and housing rentals company,107K
+allianzlife.com,July 2025,27/03/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,Insurance and financial services provider,1.1M
+datatrolllogs,June 2025,16/10/2024,email_addresses:passwords,0,Malware stealer log compilation,109.5M
+unigame.com,December 2019,30/08/2025,email_addresses:passwords,0,Online gaming platform,843.7K
+pi-hole.net,July 2025,11/09/2024,email_addresses:names,0,Open-source network-wide ad blocker,29.9K
+creamscafe.com,May 2025,13/08/2025,email_addresses:names:phone_numbers:physical_addresses,0,British dessert and coffee shop chain,159.7K
+mareads.com,June 2025,27/03/2025,dates_of_birth:email_addresses:phone_numbers:usernames,0,Reading and e-book service,74.5K
+omnicuris.com,June 2025,02/12/2024,email_addresses:geographic_locations:names:phone_numbers,0,Medical e-learning platform,215.3K
+catwatchful.com,June 2025,18/09/2024,email_addresses:passwords,0,Parental control and monitoring software,61.6K
 Robinsons Malls,June 2024,24/07/2025,dates_of_birth:email_addresses:genders:geographic_locations:names:phone_numbers,0,,195.6K
 Have Fun Teaching,August 2021,20/06/2025,browser_user_agent_details:email_addresses:ip_addresses:names:payment_methods:physical_addresses:purchases,0,,27.1K
 Ualabee,May 2025,17/12/2024,dates_of_birth:email_addresses:names:phone_numbers:profile_photos,0,,472.3K
@@ -911,4 +911,4 @@ BNI,December 2023, 30/11/2024,name:business_name:profession:phonenumber,0,The le
 Chuvashia Residents,August 2025, 28/09/2025,name:date_of_birth:type_of_document:document_series_and_number:issuing_authority:date_of_document_issuance:place_of_birth:address,0,,1.4M
 FRAP.CD,username:password:prf_id:sec_id:prenom:nom:sexe:postnom:email:phone:ref_doc_designation:doc_designation:last_login:last_password_updated:creation_time:created_by:last_update_time:last_updated_by:status,0,,1.136K
 Israel Citizens,August 2025, 28/09/2025,phone:uid:email:first_name:last_name:gender:date_registered:birthday:location:hometown:relationship_status:education_last_year:work:groups:pages:last_update:creation_time,0,,3.9M
-ffr.fr,June 2025, 28/09/2025,email:name:surname:dob:phone1:phone2,0,,334.135K
+ffr.fr,June 2025, 28/09/2025,email:name:surname:dob:phone1:phone2,0,French Rugby Federation,334.135K
