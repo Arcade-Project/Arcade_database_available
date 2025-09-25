@@ -1,4 +1,41 @@
 
+document.addEventListener('DOMContentLoaded', function() {
+    const introScreen = document.getElementById('introScreen');
+    const mainSite = document.getElementById('mainSite');
+    
+
+    function enterSite() {
+    
+        introScreen.classList.add('slide-up');
+        
+    
+        setTimeout(() => {
+            mainSite.classList.add('show');
+        
+            setTimeout(() => {
+                introScreen.style.display = 'none';
+            }, 300);
+        }, 400);
+        
+    
+        setTimeout(() => {
+            loadBreachesData();
+            setupEventListeners();
+        }, 800);
+    }
+    
+
+    introScreen.addEventListener('click', enterSite);
+    
+
+    document.addEventListener('keydown', function(e) {
+        if (introScreen.style.display !== 'none') {
+            enterSite();
+        }
+    });
+});
+
+
 let breachesData = [];
 let filteredData = [];
 let currentSortColumn = '';
@@ -14,10 +51,6 @@ const totalBreachesSpan = document.getElementById('totalBreaches');
 const cleanBreachesSpan = document.getElementById('cleanBreaches');
 const totalAccountsSpan = document.getElementById('totalAccounts');
 
-document.addEventListener('DOMContentLoaded', function() {
-    loadBreachesData();
-    setupEventListeners();
-});
 
 function setupEventListeners() {
     searchInput.addEventListener('input', debounce(filterData, 300));
@@ -165,7 +198,7 @@ function createTableRow(breach) {
 function formatDate(dateString) {
     if (!dateString) return '-';
     
-    // Handle dd/mm/yyyy format (upload dates)
+
     if (dateString.match(/^\d{1,2}\/\d{1,2}\/\d{4}$/)) {
         const [day, month, year] = dateString.split('/');
         const date = new Date(year, month - 1, day);
@@ -176,13 +209,13 @@ function formatDate(dateString) {
                 day: 'numeric'
             });
         }
-        return dateString; // Return original if parsing fails
+        return dateString;
     }
     
-    // Handle "Month YYYY" format (breach dates)
+
     if (dateString.match(/^[A-Za-z]+ \d{4}$/)) {
         try {
-            const date = new Date(dateString + ' 1'); // Add day 1 to make it parseable
+            const date = new Date(dateString + ' 1');
             if (!isNaN(date.getTime())) {
                 return date.toLocaleDateString('en-US', {
                     year: 'numeric',
@@ -190,11 +223,11 @@ function formatDate(dateString) {
                 });
             }
         } catch (error) {
-            return dateString; // Return original if parsing fails
+            return dateString;
         }
     }
     
-    // Handle other date formats
+
     try {
         const date = new Date(dateString);
         if (!isNaN(date.getTime())) {
@@ -203,10 +236,10 @@ function formatDate(dateString) {
                 month: 'short'
             });
         } else {
-            return dateString; // Return original if not a valid date
+            return dateString;
         }
     } catch (error) {
-        return dateString; // Return original if parsing fails
+        return dateString;
     }
 }
 
@@ -395,7 +428,7 @@ function animateNumber(element, start, end) {
         
         const current = Math.floor(start + (end - start) * progress);
         
-        // Format le nombre pour l'affichage (avec suffixes K, M, G si nécessaire)
+    
         if (element.id === 'totalAccounts') {
             element.textContent = formatLargeNumber(current);
         } else {

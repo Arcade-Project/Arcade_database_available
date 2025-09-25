@@ -14,6 +14,125 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.intro-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: 
+        radial-gradient(circle at center, #333 1px, transparent 1px),
+        linear-gradient(135deg, #0f0f11 0%, #1a1a1d 100%);
+    background-size: 30px 30px, 100% 100%;
+    background-position: 0 0, 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease;
+}
+
+.intro-screen.slide-up {
+    transform: translateY(-100vh);
+    opacity: 0;
+}
+
+.intro-container {
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+}
+
+.logo-container {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 80px;
+}
+
+.intro-logo {
+    height: 120px;
+    width: auto;
+    position: relative;
+    z-index: 2;
+}
+
+.wave {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid rgba(136, 46, 240, 0.3);
+    border-radius: 50%;
+    animation: waveExpand 4s ease-out infinite;
+    pointer-events: none;
+    will-change: transform, opacity;
+}
+
+.wave1 {
+    animation-delay: 0s;
+}
+
+.wave2 {
+    animation-delay: 2s;
+}
+
+@keyframes waveExpand {
+    0% {
+        width: 60px;
+        height: 60px;
+        opacity: 0.8;
+    }
+    70% {
+        opacity: 0.2;
+    }
+    100% {
+        width: 80vmax;
+        height: 80vmax;
+        opacity: 0;
+    }
+}
+
+.intro-text {
+    color: #ffffff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro-text p {
+    font-size: 1.5rem;
+    font-weight: 300;
+    animation: textPulse 2s ease-in-out infinite;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+@keyframes textPulse {
+    0%, 100% {
+        opacity: 0.7;
+    }
+    50% {
+        opacity: 1;
+    }
+}
+
+.main-site {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.main-site.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
 .container {
     max-width: 1400px;
     margin: 0 auto;
@@ -21,13 +140,41 @@ body {
 }
 
 .header-logo {
-    text-align: left;
+    text-align: center;
     margin-bottom: 40px;
+    padding: 0 20px;
 }
 
 .header-logo .logo {
     height: 80px;
     width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 80px;
+}
+
+@media (max-width: 768px) {
+    .header-logo {
+        margin-bottom: 20px;
+        padding: 0 15px;
+    }
+    
+    .header-logo .logo {
+        max-height: 60px;
+        width: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-logo {
+        margin-bottom: 15px;
+        padding: 0 10px;
+    }
+    
+    .header-logo .logo {
+        max-height: 50px;
+        width: auto;
+    }
 }
 
 .title-section {
@@ -184,14 +331,12 @@ th, td {
     font-size: 0.875rem;
 }
 
-/* Limite la largeur de la colonne header avec plus d'espace */
 th:nth-child(4), td:nth-child(4) {
     max-width: 180px;
     width: 180px;
     padding-right: 24px;
 }
 
-/* Colonne Clean avec plus d'espacement */
 th:nth-child(5), td:nth-child(5) {
     padding-left: 24px;
 }
@@ -353,7 +498,6 @@ footer {
     font-size: 0.875rem;
 }
 
-/* Responsivité */
 @media (max-width: 768px) {
     .container {
         padding: 20px 16px;
@@ -444,7 +588,6 @@ footer {
     }
 }
 
-/* Scrollbar personnalisée */
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
@@ -464,7 +607,6 @@ footer {
     background: rgba(136, 46, 240, 0.5);
 }
 
-/* Focus states améliorés */
 *:focus {
     outline: 2px solid #882ef0;
     outline-offset: 2px;
@@ -477,7 +619,6 @@ select:focus {
     box-shadow: 0 0 0 2px rgba(136, 46, 240, 0.2);
 }
 
-/* Animation pour les changements d'état */
 .stat-number {
     transition: color 0.3s ease;
 }
@@ -490,12 +631,10 @@ tbody td:first-child {
     font-weight: 600;
 }
 
-/* Amélioration du nom de la breach */
 tbody td:first-child strong {
     color: #ffffff;
 }
 
-/* Style pour les dates */
 tbody tr td:nth-child(2),
 tbody tr td:nth-child(3) {
     font-variant-numeric: tabular-nums;

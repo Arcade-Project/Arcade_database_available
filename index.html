@@ -12,10 +12,24 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <div class="header-logo">
-            <img src="favicon/arcade.svg" alt="Arcade Logo" class="logo">
+    <div id="introScreen" class="intro-screen">
+        <div class="intro-container">
+            <div class="logo-container">
+                <img src="favicon/arcade.svg" alt="Arcade Logo" class="intro-logo">
+            </div>
+            <div class="intro-text">
+                <p>Press to enter</p>
+            </div>
         </div>
+        <div class="wave wave1"></div>
+        <div class="wave wave2"></div>
+    </div>
+
+    <div id="mainSite" class="main-site">
+        <div class="container">
+            <div class="header-logo">
+                <img src="favicon/arcade.svg" alt="Arcade Logo" class="logo">
+            </div>
 
         <div class="search-section">
             <div class="search-container">
@@ -66,7 +80,7 @@
                     </tr>
                 </thead>
                 <tbody id="breachesTableBody">
-                    <!-- Data will be loaded here by JavaScript -->
+            
                 </tbody>
             </table>
         </div>
@@ -80,6 +94,7 @@
             <p>No results found</p>
             <p>Try with other keywords</p>
         </div>
+    </div>
     </div>
 
     <script src="script.js"></script>
