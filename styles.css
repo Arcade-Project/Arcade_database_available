@@ -20,6 +20,16 @@ body {
     padding: 40px 20px;
 }
 
+.header-logo {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.header-logo .logo {
+    height: 80px;
+    width: auto;
+}
+
 .title-section {
     text-align: center;
     margin-bottom: 40px;
