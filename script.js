@@ -165,22 +165,48 @@ function createTableRow(breach) {
 function formatDate(dateString) {
     if (!dateString) return '-';
     
+    // Handle dd/mm/yyyy format (upload dates)
     if (dateString.match(/^\d{1,2}\/\d{1,2}\/\d{4}$/)) {
-        return dateString;
+        const [day, month, year] = dateString.split('/');
+        const date = new Date(year, month - 1, day);
+        if (!isNaN(date.getTime())) {
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
+        }
+        return dateString; // Return original if parsing fails
     }
     
-    if (dateString.match(/^[A-Za-z]{3}\s\d{4}$/)) {
-        return dateString;
+    // Handle "Month YYYY" format (breach dates)
+    if (dateString.match(/^[A-Za-z]+ \d{4}$/)) {
+        try {
+            const date = new Date(dateString + ' 1'); // Add day 1 to make it parseable
+            if (!isNaN(date.getTime())) {
+                return date.toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long'
+                });
+            }
+        } catch (error) {
+            return dateString; // Return original if parsing fails
+        }
     }
     
+    // Handle other date formats
     try {
         const date = new Date(dateString);
-        return date.toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'short'
-        });
+        if (!isNaN(date.getTime())) {
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short'
+            });
+        } else {
+            return dateString; // Return original if not a valid date
+        }
     } catch (error) {
-        return dateString;
+        return dateString; // Return original if parsing fails
     }
 }
 
