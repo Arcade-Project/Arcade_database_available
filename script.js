@@ -12,7 +12,7 @@ const loading = document.getElementById('loading');
 const noResults = document.getElementById('noResults');
 const totalBreachesSpan = document.getElementById('totalBreaches');
 const cleanBreachesSpan = document.getElementById('cleanBreaches');
-const visibleBreachesSpan = document.getElementById('visibleBreaches');
+const totalAccountsSpan = document.getElementById('totalAccounts');
 
 document.addEventListener('DOMContentLoaded', function() {
     loadBreachesData();
@@ -367,12 +367,22 @@ function updateSortingUI(column, direction) {
 function updateStats() {
     const total = breachesData.length;
     const clean = breachesData.filter(breach => breach.clean === '1').length;
-    const visible = filteredData.length;
+    const totalAccounts = calculateTotalAccounts(filteredData);
     
 
     animateNumber(totalBreachesSpan, parseInt(totalBreachesSpan.textContent) || 0, total);
     animateNumber(cleanBreachesSpan, parseInt(cleanBreachesSpan.textContent) || 0, clean);
-    animateNumber(visibleBreachesSpan, parseInt(visibleBreachesSpan.textContent) || 0, visible);
+    animateNumber(totalAccountsSpan, parseInt(totalAccountsSpan.textContent) || 0, totalAccounts);
+}
+
+function calculateTotalAccounts(data) {
+    return data.reduce((total, breach) => {
+        if (breach.affected_accounts) {
+            const accountsValue = parseSizeToNumber(breach.affected_accounts);
+            return total + accountsValue;
+        }
+        return total;
+    }, 0);
 }
 
 function animateNumber(element, start, end) {
@@ -384,7 +394,13 @@ function animateNumber(element, start, end) {
         const progress = Math.min(elapsed / duration, 1);
         
         const current = Math.floor(start + (end - start) * progress);
-        element.textContent = current.toLocaleString();
+        
+        // Format le nombre pour l'affichage (avec suffixes K, M, G si nécessaire)
+        if (element.id === 'totalAccounts') {
+            element.textContent = formatLargeNumber(current);
+        } else {
+            element.textContent = current.toLocaleString();
+        }
         
         if (progress < 1) {
             requestAnimationFrame(updateNumber);
@@ -392,6 +408,17 @@ function animateNumber(element, start, end) {
     }
     
     requestAnimationFrame(updateNumber);
+}
+
+function formatLargeNumber(num) {
+    if (num >= 1000000000) {
+        return (num / 1000000000).toFixed(1) + 'G';
+    } else if (num >= 1000000) {
+        return (num / 1000000).toFixed(1) + 'M';
+    } else if (num >= 1000) {
+        return (num / 1000).toFixed(1) + 'K';
+    }
+    return num.toLocaleString();
 }
 
 function showLoading(show) {

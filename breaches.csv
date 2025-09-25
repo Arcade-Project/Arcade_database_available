@@ -1,11 +1,909 @@
 nom,date_breach,date_upload_arcade,header,clean,description,affected_accounts
-Bouygues Telecom,August 2025,24/09/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,the French telecommunications company Bouygues Telecom detected a cyber attack against their services,5.7M
-CoinMarketCap,October 2021,20/08/2025,email,0,cryptocurrency market,3.1M
-Deezer,April 2019,14/09/2025,dates_of_birth:email:gender;geographic_location:ip_addresses:names:spoken_languages:usernames,0,Music streaming service,229M
-000webhost,March 2015,14/09/2025,email:ip_addresses:names:passwords,0,Web hosting service,14.9M
-123RF,March 2020, 24/09/2025,email:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,Stock photo site,8.7M
-126,January 2012,12/07/2025,email:passwords,0,Chinese email service,6.4M
-17,April 2016, 14/09/2025,device_ids:email:ip_addresses:usernames:passwords,0,Streaming app,4M
-17173,December 2011,12/07/2025,email:passwords:usernames,0,Chinese gaming site,7.5M
-7k7k,January 2011,12/07/2025,email:passwords:usernames,0,Chinese gaming site,9.1M
-8tracks,June 2017,14/09/2025,email:passwords,0,Music streaming service,18M
+Cultura,September 2024,01/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,,1.5M
+Bouygues Telecom,August 2025,31/08/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,,5.7M
+Animeify,October 2021,29/11/2024,email_addresses:genders:names:passwords:usernames,0,,808K
+FreeOnes,February 2017,23/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,960.2K
+Miljödata,August 2025,25/09/2025,dates_of_birth:email_addresses:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,,870.1K
+Giglio,August 2025,16/10/2024,email_addresses:names:phone_numbers:physical_addresses,0,,1M
+TheSqua.re,June 2025,20/10/2024,email_addresses:geographic_locations:names:phone_numbers,0,,107K
+Allianz Life,July 2025,27/03/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,,1.1M
+Data Troll Stealer Logs,June 2025,16/10/2024,email_addresses:passwords,0,,109.5M
+Unigame,December 2019,30/08/2025,email_addresses:passwords,0,,843.7K
+Pi-hole,July 2025,11/09/2024,email_addresses:names,0,,29.9K
+Creams Cafe,May 2025,13/08/2025,email_addresses:names:phone_numbers:physical_addresses,0,,159.7K
+MaReads,June 2025,27/03/2025,dates_of_birth:email_addresses:phone_numbers:usernames,0,,74.5K
+Omnicuris,June 2025,02/12/2024,email_addresses:geographic_locations:names:phone_numbers,0,,215.3K
+Catwatchful,June 2025,18/09/2024,email_addresses:passwords,0,,61.6K
+Robinsons Malls,June 2024,24/07/2025,dates_of_birth:email_addresses:genders:geographic_locations:names:phone_numbers,0,,195.6K
+Have Fun Teaching,August 2021,20/06/2025,browser_user_agent_details:email_addresses:ip_addresses:names:payment_methods:physical_addresses:purchases,0,,27.1K
+Ualabee,May 2025,17/12/2024,dates_of_birth:email_addresses:names:phone_numbers:profile_photos,0,,472.3K
+WiredBucks,May 2022,01/03/2025,earnings:email_addresses:ip_addresses:names:passwords:physical_addresses:usernames,0,,918.5K
+Disk Union,June 2022,25/03/2025,email_addresses:geographic_locations:names:passwords:phone_numbers:usernames,0,,690.7K
+ColoCrossing,May 2025,02/07/2025,email_addresses:names:passwords,0,,7.2K
+Free,October 2024,07/12/2024,bank_account_numbers:dates_of_birth:genders:names:phone_numbers:physical_addresses,0,,13.9M
+Operation Endgame 2.0,May 2025,08/03/2025,email_addresses:passwords,0,,15.4M
+Fédération Francaise de Rugby,July 2023,14/03/2025,dates_of_birth:email_addresses:names:phone_numbers,0,,282K
+OnRPG,July 2016,30/08/2024,email_addresses:ip_addresses:passwords:usernames,0,,1M
+TehetségKapu,March 2025,19/06/2025,email_addresses:names:usernames,0,,54.4K
+Samsung Germany Customer Tickets,March 2025,06/05/2025,email_addresses:names:physical_addresses:purchases:salutations:shipment_tracking_numbers:support_tickets,0,,216.3K
+Qraved,July 2021,09/05/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers,0,,984.5K
+Boulanger,September 2024,23/01/2025,email_addresses:geographic_locations:names:phone_numbers:physical_addresses,0,,2.1M
+German Doner Kebab,March 2025,29/06/2025,email_addresses:names:phone_numbers:physical_addresses,0,,162.4K
+Troy Hunt's Mailchimp List,March 2025,24/08/2025,email_addresses:geographic_locations:ip_addresses,0,,16.6K
+SpyX,June 2024,11/07/2025,device_information:email_addresses:geographic_locations:ip_addresses:passwords,0,,2M
+Lexipol,February 2025,18/03/2025,email_addresses:names:passwords:phone_numbers:usernames,0,,672.5K
+Color Dating,September 2018,20/06/2025,bios:dates_of_birth:email_addresses:geographic_locations:names:passwords:profile_photos,0,,220.5K
+"Flat Earth Sun, Moon and Zodiac App",October 2024,19/06/2025,dates_of_birth:email_addresses:genders:geographic_locations:names:passwords:usernames,0,,33.3K
+Spyzie,February 2024,07/10/2024,email_addresses,0,,518.6K
+Orange Romania,February 2025,27/09/2024,email_addresses:partial_credit_card_data:phone_numbers,0,,556.6K
+ALIEN TXTBASE Stealer Logs,February 2025,08/08/2025,email_addresses:passwords,0,,284.1M
+Spyic,February 2025,06/06/2025,email_addresses,0,,876K
+Cocospy,February 2025,13/11/2024,email_addresses,0,,1.8M
+Storenvy,April 2019,17/06/2025,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:passwords:usernames,0,,11.1M
+Doxbin (TOoDA),February 2024,21/09/2024,email_addresses:usernames,0,,136.5K
+Zacks (2024),June 2024,01/09/2024,email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,12M
+LandAirSea,January 2025,05/08/2025,email_addresses:names:partial_credit_card_data:passwords:physical_addresses:usernames,0,,337.4K
+Adopt Me Trading Values,July 2022,21/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,86.1K
+Youthmanual,January 2019,15/08/2025,bios:dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:places_of_birth,0,,937.9K
+Thermomix Recipe World Forum,January 2025,30/12/2024,bios:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses:usernames,0,,3.1M
+Hakko Corporation,March 2019,16/12/2024,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:usernames,0,,9.7K
+PoinCampus,November 2024,20/11/2024,dates_of_birth:email_addresses:names:phone_numbers,0,,89.1K
+1win,November 2024,02/03/2025,dates_of_birth:email_addresses:geographic_locations:ip_addresses:passwords:phone_numbers,0,,96.2M
+DragonNest,August 2013,15/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,511.3K
+9Lives,October 2014,21/01/2025,email_addresses:passwords:usernames,0,,109.5K
+Speedio,December 2024,04/09/2025,company_names:email_addresses:phone_numbers:physical_addresses,0,,27.5M
+HeatGames,June 2021,14/02/2025,email_addresses:geographic_locations:ip_addresses:passwords,0,,647.9K
+Doxbin Scrape,January 2025,13/05/2025,email_addresses,0,,435.8K
+Frame & Optic,January 2025,07/11/2024,email_addresses:geographic_locations:names:phone_numbers,0,,15.7K
+Welhof,December 2023,06/11/2024,email_addresses:names:physical_addresses:purchases,0,,107.3K
+Otelier,July 2024,15/02/2025,email_addresses:names:partial_credit_card_data:phone_numbers:physical_addresses:purchases:travel_plans,0,,436.9K
+MSI,July 2024,04/10/2024,email_addresses:names:phone_numbers:physical_addresses:warranty_claims,0,,250K
+Le Coq Sportif Columbia,May 2023,23/02/2025,dates_of_birth:device_information:email_addresses:genders:ip_addresses:names:passwords:physical_addresses:purchases,0,,79.7K
+"Stealer Logs, Jan 2025",January 2025,25/12/2024,email_addresses:passwords,0,,71M
+Scholastic,January 2025,10/09/2025,email_addresses:names:phone_numbers:physical_addresses,0,,4.2M
+SuperDraft,October 2024,12/12/2024,dates_of_birth:email_addresses:geographic_locations:passwords:purchases:usernames,0,,300.2K
+GLAMIRA,December 2023,24/12/2024,email_addresses:names:phone_numbers:purchases,0,,874.6K
+French Citizens,September 2024,24/09/2024,device_information:email_addresses:ip_addresses:names:partial_credit_card_data:phone_numbers:physical_addresses,0,,28.4M
+Young Living Essential Oils,December 2024,11/05/2025,dates_of_birth:email_addresses:geographic_locations:names,0,,1.1M
+schenkYOU,August 2024,17/01/2025,dates_of_birth:email_addresses:names:passwords,0,,237.3K
+BitView,December 2024,21/09/2024,bios:comments:dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:passwords:private_messages:usernames,0,,63.1K
+Hopamedia,August 2020,11/01/2025,email_addresses:geographic_locations:names:phone_numbers:telecommunications_carrier,0,,23.8M
+MC2 Data,August 2024,09/06/2025,email_addresses:names:passwords,0,,2.1M
+Yonéma,November 2024,07/08/2025,dates_of_birth:device_information:email_addresses:ip_addresses:names:passwords:phone_numbers,0,,36K
+Tibber,November 2024,14/02/2025,email_addresses:geographic_locations:names:purchases,0,,50K
+Senior Dating,November 2024,23/04/2025,bios:dates_of_birth:drinking_habits:education_levels:email_addresses:genders:geographic_locations:occupations:profile_photos:relationship_statuses:smoking_habits:social_media_profiles,0,,765.5K
+Ladies.com,July 2024,30/10/2024,bios:dates_of_birth:drinking_habits:education_levels:email_addresses:family_structure:genders:geographic_locations:photos:profile_photos:relationship_statuses:sexual_orientations:smoking_habits:tattoo_status:usernames,0,,118.8K
+The Real World,November 2024,03/01/2025,chat_logs:email_addresses:usernames,0,,324.4K
+FlipaClip,November 2024,15/02/2025,dates_of_birth:email_addresses:geographic_locations:names,0,,892.9K
+Finsure,October 2024,21/12/2024,email_addresses:names:phone_numbers:physical_addresses,0,,296.1K
+DemandScience by Pure Incubation,February 2024,08/03/2025,email_addresses:employers:job_titles:names:phone_numbers:physical_addresses:social_media_profiles,0,,121.8M
+Hot Topic,October 2024,11/06/2025,dates_of_birth:email_addresses:genders:names:partial_credit_card_data:phone_numbers:physical_addresses:purchases:salutations,0,,56.9M
+Earth 2,October 2024,17/06/2025,email_addresses:usernames,0,,421K
+Dennis Kirk,September 2021,10/05/2025,email_addresses:geographic_locations:names:phone_numbers:purchases,0,,1.4M
+Altenen,June 2022,12/09/2024,cryptocurrency_wallet_addresses:email_addresses:passwords:usernames,0,,1.3M
+Z-lib,June 2024,12/11/2024,cryptocurrency_wallet_addresses:email_addresses:geographic_locations:passwords:purchases:usernames,0,,9.7M
+Stalker Online,May 2020,23/02/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.4M
+TNAFlix,June 2022,27/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,1.4M
+VimeWorld,October 2018,24/08/2024,email_addresses:ip_addresses:passwords:usernames,0,,3.1M
+StreamCraft,July 2020,03/09/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.8M
+The Club Penguin Experience,October 2024,24/04/2025,age_groups:email_addresses:password_hints:passwords:usernames,0,,6.3K
+digiDirect,September 2024,12/05/2025,dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,,304.3K
+Fair Vote Canada,March 2024,08/08/2025,email_addresses:names:phone_numbers:physical_addresses:political_donations,0,,134.3K
+AlpineReplay,August 2019,22/09/2024,dates_of_birth:email_addresses:genders:names:passwords:physical_attributes:usernames,0,,898.7K
+Internet Archive,September 2024,08/09/2025,email_addresses:passwords:usernames,0,,31.1M
+Muah.AI,September 2024,16/04/2025,email_addresses:sexual_fetishes,0,,1.9M
+Switch,October 2024,11/09/2024,email_addresses:job_applications:names:social_media_profiles,0,,5.4K
+BudTrader,June 2024,05/04/2025,email_addresses:passwords:usernames,0,,2.7M
+Central Tickets,July 2024,07/10/2024,device_information:email_addresses:ip_addresses:names:passwords:phone_numbers:purchases,0,,722.9K
+GameVN,May 2016,25/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,1.4M
+HuntStand,March 2024,03/04/2025,dates_of_birth:email_addresses:geographic_locations:names,0,,2.8M
+Instituto Nacional de Deportes de Chile,September 2024,09/09/2024,dates_of_birth:email_addresses:genders:names:passwords:usernames,0,,319.6K
+Games Box,September 2020,19/12/2024,ages:email_addresses:genders:passwords:usernames,0,,1.4M
+Blooms Today,November 2023,01/11/2024,email_addresses:names:partial_credit_card_data:phone_numbers:physical_addresses,0,,3.2M
+Market Moveis,August 2023,07/10/2024,email_addresses:names,0,,28.2K
+Lookiero,March 2024,03/06/2025,email_addresses:names:phone_numbers:physical_addresses,0,,5M
+Sport 2000,April 2024,28/02/2025,dates_of_birth:email_addresses:names:phone_numbers:physical_addresses:purchases:salutations,0,,3.2M
+Traderie,September 2022,06/11/2024,email_addresses:ip_addresses:social_media_profiles:usernames,0,,364.9K
+Tracki,August 2024,27/05/2025,email_addresses:names,0,,372.6K
+Explore Talent (August 2024),August 2024,22/07/2025,email_addresses,0,,8.9M
+Chris Leong,August 2024,24/10/2024,dates_of_birth:email_addresses:genders:names:nationalities:phone_numbers:physical_addresses:purchases:social_media_profiles,0,,27.1K
+LDLC,February 2024,24/10/2024,email_addresses:names:phone_numbers:physical_addresses:salutations,0,,1.3M
+National Public Data,April 2024,07/06/2025,dates_of_birth:email_addresses:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,,134M
+Shadow,September 2023,12/01/2025,dates_of_birth:email_addresses:names:physical_addresses,0,,543.3K
+Not SOCRadar,August 2024,06/06/2025,email_addresses,0,,282.5M
+Shoe Zone,June 2024,07/07/2025,email_addresses:names:partial_credit_card_data:physical_addresses:purchases,0,,46.1K
+LuLu,July 2024,02/11/2024,email_addresses:names:passwords:phone_numbers:physical_addresses:purchases,0,,2.8M
+Multiplayer.it,September 2018,10/04/2025,email_addresses:passwords,0,,504K
+Stealer Logs Posted to Telegram,July 2024,09/04/2025,email_addresses:passwords,0,,26.1M
+AnimeLeague,July 2024,24/10/2024,dates_of_birth:email_addresses:ip_addresses:passwords:phone_numbers:private_messages:purchases:usernames,0,,192.1K
+Ubook,July 2024,07/09/2025,dates_of_birth:email_addresses:genders:names:profile_photos,0,,699.9K
+Spytech,June 2024,18/04/2025,browsing_histories:device_information:email_addresses:names:passwords:purchases:usernames,0,,5.6K
+Condo.com,June 2019,08/01/2025,email_addresses:names:phone_numbers:physical_addresses,0,,1.5M
+Explore Talent (July 2024),February 2022,08/11/2024,email_addresses:names:phone_numbers:physical_addresses,0,,5.4M
+Life360,March 2024,13/06/2025,email_addresses:names:phone_numbers,0,,442.5K
+mSpy (2024),June 2024,16/09/2024,email_addresses:ip_addresses:names:photos,0,,2.4M
+The Heritage Foundation,July 2024,08/11/2024,email_addresses:ip_addresses:names:passwords:usernames,0,,72K
+Neiman Marcus,April 2024,05/11/2024,dates_of_birth:email_addresses:ip_addresses:names:partial_credit_card_data:phone_numbers:physical_addresses:purchases,0,,31.2M
+Husky Owners,July 2024,21/07/2025,dates_of_birth:email_addresses:time_zones:usernames,0,,16.5K
+FNTECH,July 2024,29/04/2025,email_addresses:ip_addresses:names,0,,10.4K
+Date Hot Brunettes,January 2021,03/03/2025,bios:email_addresses:ip_addresses:passwords:usernames,0,,1.5M
+Ticketek,May 2024,02/11/2024,dates_of_birth:email_addresses:genders:names:passwords:salutations,0,,17.6M
+Advance Auto Parts,June 2024,12/09/2024,email_addresses:names:phone_numbers:physical_addresses,0,,79.2M
+Zadig & Voltaire,November 2023,02/09/2025,email_addresses:genders:names:phone_numbers:physical_addresses,0,,586.9K
+Combolists Posted to Telegram,May 2024,04/09/2024,email_addresses:passwords:usernames,0,,361.5M
+Operation Endgame,May 2024,13/09/2024,email_addresses:passwords,0,,16.5M
+pcTattletale,May 2024,02/07/2025,device_information:email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:sms_messages:usernames,0,,138.8K
+Dota2,July 2016,12/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.9M
+The Post Millennial,May 2024,21/07/2025,email_addresses:genders:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,57M
+Tappware,April 2024,19/05/2025,dates_of_birth:email_addresses:genders:government_issued_ids:job_titles:names:phone_numbers:physical_addresses:religions,0,,94.7K
+MovieBoxPro,April 2024,20/02/2025,email_addresses:usernames,0,,6M
+Piping Rock,April 2024,04/07/2025,email_addresses:names:phone_numbers:physical_addresses,0,,2.1M
+T2,April 2024,10/04/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:purchases:salutations,0,,94.6K
+Le Slip Français,April 2024,26/07/2025,email_addresses:names:phone_numbers:physical_addresses,0,,1.5M
+Giant Tiger,March 2024,30/11/2024,email_addresses:names:phone_numbers:physical_addresses,0,,2.8M
+Salvadoran Citizens,April 2024,26/01/2025,dates_of_birth:email_addresses:government_issued_ids:names:phone_numbers:physical_addresses:profile_photos,0,,947K
+Kaspersky Club,March 2024,21/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,56K
+boAt,March 2024,17/07/2025,email_addresses:names:phone_numbers:physical_addresses,0,,7.5M
+SurveyLama,February 2024,25/01/2025,dates_of_birth:email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,4.4M
+Pandabuy,March 2024,22/01/2025,email_addresses:ip_addresses:names:phone_numbers:physical_addresses,0,,1.3M
+Washington State Food Worker Card,November 2022,05/08/2025,dates_of_birth:driver's_licenses:email_addresses:geographic_locations:names,0,,1.6M
+England Cricket,March 2024,24/12/2024,email_addresses:passwords,0,,43.3K
+Exvagos,July 2022,25/07/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,2.1M
+GSM Hosting,August 2016,12/09/2025,email_addresses:ip_addresses:passwords:usernames,0,,2.6M
+SwordFantasy,January 2017,27/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,2.7M
+MediaWorks,March 2023,01/05/2025,dates_of_birth:email_addresses:genders:phone_numbers:physical_addresses,0,,162.7K
+AT&T,August 2021,28/12/2024,dates_of_birth:email_addresses:government_issued_ids:names:phone_numbers:physical_addresses,0,,49.1M
+ClickASnap,September 2022,21/08/2025,email_addresses:names:passwords:physical_addresses:purchases:social_media_profiles:usernames,0,,3.3M
+Misattributed Flipkart Data,September 2022,09/12/2024,email_addresses:geographic_locations:names:phone_numbers,0,,552.1K
+Misattributed Habib's Data,August 2021,01/03/2025,dates_of_birth:email_addresses:ip_addresses:names:phone_numbers:social_media_profiles,0,,3.5M
+APK.TW,September 2022,27/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,2.5M
+Online Trade (Онлайн Трейд),September 2022,30/08/2024,dates_of_birth:email_addresses:ip_addresses:names:passwords:phone_numbers,0,,3.8M
+WoTLabs,March 2024,02/06/2025,dates_of_birth:email_addresses:ip_addresses:time_zones:usernames,0,,22K
+Mr. Green Gaming,March 2024,25/04/2025,dates_of_birth:email_addresses:geographic_locations:ip_addresses:usernames,0,,27.1K
+Cutout.Pro,February 2024,12/10/2024,email_addresses:ip_addresses:names:passwords,0,,20M
+Tangerine,February 2024,12/09/2024,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:salutations,0,,243.5K
+Facebook Marketplace,October 2023,14/05/2025,email_addresses:geographic_locations:names:passwords:phone_numbers:social_media_profiles,0,,77.3K
+Spoutible,January 2024,22/11/2024,email_addresses:genders:ip_addresses:names:passwords:phone_numbers:usernames,0,,207.1K
+MyPertamina,November 2022,20/05/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses:purchases,0,,6M
+Trello,January 2024,15/07/2025,email_addresses:names:usernames,0,,15.1M
+Naz.API,September 2023,08/08/2025,email_addresses:passwords,0,,70.8M
+Hathway,December 2023,21/03/2025,device_information:email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:salutations:support_tickets,0,,4.7M
+Legendas.TV,October 2017,10/06/2025,email_addresses:ip_addresses:names:passwords:usernames,0,,3.9M
+DC Health Link,March 2023,15/09/2024,citizenship_statuses:dates_of_birth:email_addresses:employers:ethnicities:genders:names:phone_numbers:physical_addresses:purchases:social_security_numbers,0,,48.1K
+InflateVids,December 2023,03/03/2025,email_addresses:genders:ip_addresses:passwords:usernames,0,,13.4K
+Kaneva,July 2016,01/10/2024,dates_of_birth:email_addresses:passwords:usernames,0,,3.9M
+Gemplex,February 2021,29/03/2025,device_information:email_addresses:names:passwords:phone_numbers,0,,4.6M
+Movie Forums,November 2022,22/01/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,39.9K
+JoyGames,N/A,12/04/2025,email_addresses:ip_addresses:passwords:usernames,0,,N/A
+RailYatri,December 2022,16/05/2025,email_addresses:genders:names:phone_numbers:purchases,0,,23.2M
+SoarGames,December 2019,05/06/2025,email_addresses:ip_addresses:passwords:usernames,0,,4.8M
+Go Ninja,December 2019,11/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,5M
+Estante Virtual,February 2019,24/02/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,5.4M
+Bleach Anime Forum,January 2015,10/09/2025,email_addresses:passwords:usernames,0,,143.7K
+IndiHome,November 2019,30/04/2025,device_information:email_addresses:genders:geographic_locations:ip_addresses:names,0,,12.6M
+Jam Tangan,July 2021,26/07/2025,email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,434.8K
+KitchenPal,November 2023,05/12/2024,dates_of_birth:email_addresses:genders:geographic_locations:names:passwords:physical_attributes:social_media_profiles,0,,98.7K
+OMGPOP,January 2013,30/11/2024,email_addresses:passwords,0,,7.1M
+Acuity,June 2020,14/09/2025,dates_of_birth:email_addresses:genders:ip_addresses:names:phone_numbers:physical_addresses:salutations,0,,14.1M
+Avito,November 2022,06/05/2025,email_addresses:geographic_locations:ip_addresses:names:phone_numbers,0,,2.7M
+Chess,November 2023,08/01/2025,email_addresses:geographic_locations:names:usernames,0,,827.6K
+LinkedIn Scraped and Faked Data (2023),November 2023,25/02/2025,email_addresses:genders:geographic_locations:job_titles:names:professional_skills:social_media_profiles,0,,19.8M
+GamingMonk,December 2020,25/09/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers:usernames,0,,654.5K
+Fitmart,October 2021,19/09/2024,email_addresses:passwords,0,,214.5K
+GameSprite,December 2019,31/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,6.2M
+MemeChat,June 2022,26/08/2025,email_addresses:usernames,0,,4.3M
+Toumei,October 2023,20/07/2025,email_addresses:names:phone_numbers:physical_addresses,0,,76.7K
+Tunngle,July 2016,27/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,8.2M
+Sphero,September 2023,21/02/2025,dates_of_birth:email_addresses:geographic_locations:names:usernames,0,,832.3K
+AndroidLista,July 2021,30/07/2025,email_addresses:names:passwords:usernames,0,,6.6M
+Phoenix,June 2021,18/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,74.8K
+Public Business Data,August 2021,23/12/2024,dates_of_birth:email_addresses:job_titles:names:phone_numbers:physical_addresses,0,,27.9M
+PaySystem.tech,April 2022,22/08/2025,credit_cards:email_addresses:purchases,0,,1.4M
+Hjedd,July 2022,04/08/2025,email_addresses:ip_addresses:passwords:usernames,0,,13.2M
+Activision,December 2022,29/11/2024,email_addresses:geographic_locations:job_titles:names:phone_numbers,0,,16K
+Horse Isle,September 2020,01/10/2024,email_addresses:genders:ip_addresses:names:passwords:purchases:usernames,0,,27.8K
+ApexSMS,April 2019,20/09/2025,email_addresses:genders:geographic_locations:ip_addresses:names:phone_numbers:telecommunications_carrier,0,,23.2M
+dBforums,July 2016,21/10/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,363.5K
+MalindoAir,March 2019,22/09/2024,dates_of_birth:email_addresses:genders:loyalty_program_details:names:nationalities:passport_numbers:phone_numbers:physical_addresses:salutations,0,,4.3M
+Viva Air,March 2022,14/01/2025,email_addresses:ip_addresses:names:partial_credit_card_data:phone_numbers:physical_addresses:purchases,0,,932.2K
+Dymocks,June 2023,22/05/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,,836.1K
+Phished Data via CERT Poland,February 2023,02/07/2025,email_addresses:passwords,0,,67.9K
+Pampling,January 2020,01/10/2024,email_addresses:names:passwords:usernames,0,,383.5K
+PlayCyberGames,August 2023,10/07/2025,email_addresses:passwords:usernames,0,,3.7M
+Qakbot,August 2023,15/10/2024,email_addresses:passwords,0,,6.4M
+SevenRooms,December 2022,30/10/2024,email_addresses:names:purchases,0,,1.2M
+Duolingo,January 2023,07/11/2024,email_addresses:names:spoken_languages:usernames,0,,2.7M
+Atmeltomo,April 2021,22/08/2025,email_addresses:ip_addresses:passwords:usernames,0,,580.2K
+ECCIE,July 2021,11/04/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,536.9K
+iMenu360,August 2022,02/02/2025,email_addresses:names:phone_numbers:physical_addresses,0,,3.4M
+Manipulated Caiman,July 2023,17/12/2024,email_addresses,0,,39.9M
+Jobzone,April 2023,09/12/2024,dates_of_birth:email_addresses:family_members'_names:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,,29.7K
+Rightbiz,July 2023,18/03/2025,email_addresses:names:phone_numbers:physical_addresses,0,,65.4K
+CraftRise,March 2022,21/08/2025,email_addresses:geographic_locations:passwords:usernames,0,,2.5M
+MagicDuel,August 2023,02/09/2025,email_addresses:ip_addresses:nicknames:passwords,0,,138.4K
+BreachForums,November 2022,06/09/2025,email_addresses:ip_addresses:passwords:private_messages:usernames,0,,212.2K
+BookCrossing,November 2012,28/06/2025,dates_of_birth:email_addresses:geographic_locations:ip_addresses:names:passwords:usernames,0,,1.6M
+Tigo,March 2023,01/07/2025,device_information:email_addresses:genders:geographic_locations:ip_addresses:names:private_messages:profile_photos:usernames,0,,700.4K
+Roblox,July 2016,12/06/2025,account_balances:email_addresses:ip_addresses:purchases:usernames,0,,52.5K
+Roblox Developer Conference (2023),December 2020,11/01/2025,clothing_sizes:dates_of_birth:email_addresses:ip_addresses:names:phone_numbers:physical_addresses:usernames,0,,3.9K
+Vermillion,August 2014,08/06/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,8.1K
+Locally,October 2022,28/07/2025,email_addresses:partial_credit_card_data:passwords:phone_numbers:physical_addresses:purchases,0,,362.6K
+BreachForums Clone,June 2023,11/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,4.2K
+Zacks,May 2020,09/04/2025,email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,8.9M
+JD Group,May 2023,19/01/2025,email_addresses:government_issued_ids:names:phone_numbers:physical_addresses,0,,521.9K
+RaidForums,September 2020,14/12/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,478.6K
+Polish Credentials,May 2023,22/01/2025,email_addresses:passwords,0,,1.2M
+Luxottica,March 2021,24/01/2025,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,,77.1M
+RentoMojo,April 2023,13/10/2024,dates_of_birth:email_addresses:genders:government_issued_ids:names:passport_numbers:passwords:phone_numbers:purchases:social_media_profiles,0,,2.2M
+CityJerks,February 2023,30/05/2025,bios:dates_of_birth:email_addresses:geographic_locations:ip_addresses:passwords:private_messages:profile_photos:sexual_orientations:usernames,0,,177.6K
+MEO,December 2020,14/10/2024,email_addresses:names:passwords:phone_numbers:physical_addresses:purchases:usernames,0,,8.2K
+Terravision,February 2023,11/03/2025,dates_of_birth:email_addresses:geographic_locations:names:passwords:phone_numbers,0,,2.1M
+OGUsers (2022 breach),July 2022,03/04/2025,email_addresses:ip_addresses:passwords:usernames,0,,529K
+The Kodi Foundation,February 2023,24/02/2025,browser_user_agent_details:dates_of_birth:email_addresses:ip_addresses:passwords:private_messages:usernames,0,,400.6K
+Genesis Market,April 2023,30/06/2025,browser_user_agent_details:credit_card_cvv:credit_cards:dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,8M
+Sundry Files,January 2022,02/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,274.5K
+Leaked Reality,January 2022,28/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,114.9K
+TheGradCafe,February 2023,26/01/2025,email_addresses:genders:geographic_locations:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,311K
+Shopper+,September 2020,24/09/2024,dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses:spoken_languages,0,,878.3K
+HDB Financial Services,February 2023,20/08/2025,dates_of_birth:email_addresses:genders:geographic_locations:loan_information:names:phone_numbers,0,,1.7M
+Eye4Fraud,January 2023,23/08/2024,email_addresses:ip_addresses:names:partial_credit_card_data:passwords:phone_numbers:physical_addresses,0,,16M
+iD Tech,January 2023,08/01/2025,dates_of_birth:email_addresses:names:passwords,0,,415.1K
+LBB,February 2019,02/05/2025,browser_user_agent_details:email_addresses:ip_addresses:names:physical_addresses,0,,39.3K
+GunAuction.com,December 2022,16/07/2025,browser_user_agent_details:email_addresses:genders:ip_addresses:partial_credit_card_data:partial_dates_of_birth:passwords:phone_numbers:physical_addresses:usernames,0,,565.5K
+Convex,February 2023,27/08/2025,email_addresses:ip_addresses:names:phone_numbers,0,,150.1K
+RealDudesInc,October 2022,30/06/2025,email_addresses:passwords:usernames,0,,101.5K
+Weee,July 2022,01/09/2024,delivery_instructions:email_addresses:names:phone_numbers:purchases,0,,1.1M
+LimeVPN,October 2020,23/07/2025,email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:purchases,0,,23.3K
+Truth Finder,April 2019,26/12/2024,email_addresses:names:passwords:phone_numbers,0,,8.2M
+Instant Checkmate,April 2019,07/01/2025,email_addresses:names:passwords:phone_numbers,0,,11.9M
+School District 42,January 2023,18/06/2025,email_addresses:names,0,,18.8K
+Planet Ice,January 2023,13/12/2024,dates_of_birth:email_addresses:genders:ip_addresses:names:passwords:phone_numbers:physical_addresses:purchases,0,,240.5K
+KomplettFritid,February 2021,11/03/2025,email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,139.4K
+Autotrader,January 2023,07/08/2025,email_addresses:phone_numbers:physical_addresses:vehicle_details:vehicle_identification_numbers_(vins),0,,20K
+Zurich,January 2023,12/01/2025,dates_of_birth:email_addresses:genders:names:vehicle_details,0,,756.7K
+DoorDash,August 2022,21/07/2025,email_addresses:geographic_locations:names:partial_credit_card_data,0,,367.5K
+SlideTeam,April 2021,11/08/2025,email_addresses:names:passwords,0,,1.5M
+Twitter (200M),January 2021,17/02/2025,email_addresses:names:social_media_profiles:usernames,0,,211.5M
+Deezer,April 2019,09/12/2024,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:names:spoken_languages:usernames,0,,229M
+Benchmark,November 2019,06/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,93.3K
+Gemini,December 2022,19/06/2025,email_addresses:partial_phone_numbers,0,,5.3M
+CoinTracker,December 2022,10/09/2024,email_addresses:partial_phone_numbers,0,,1.6M
+Abandonia (2022),November 2022,08/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,919.8K
+Not Acxiom,June 2020,21/11/2024,email_addresses:ip_addresses:names:phone_numbers:physical_addresses,0,,51.7M
+Get Revenge On Your Ex,September 2022,21/02/2025,email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:purchases,0,,79.2K
+GGCorp,August 2022,04/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,2.4M
+Lolzteam,May 2018,22/11/2024,email_addresses:usernames,0,,398K
+Doomworld,October 2022,23/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,34.5K
+E-Pal,April 2022,06/07/2025,email_addresses:purchases:usernames,0,,108.9K
+Wakanim,August 2022,31/12/2024,browser_user_agent_details:email_addresses:ip_addresses:names:physical_addresses:usernames,0,,6.7M
+Bhinneka,January 2020,29/09/2024,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses,0,,1.3M
+TAP Air Portugal,August 2022,24/04/2025,dates_of_birth:email_addresses:genders:names:nationalities:phone_numbers:physical_addresses:salutations:spoken_languages,0,,6.1M
+Brand New Tube,August 2022,25/12/2024,email_addresses:genders:ip_addresses:passwords:private_messages:usernames,0,,349.6K
+Stripchat,November 2021,09/05/2025,email_addresses:ip_addresses:usernames,0,,10M
+START,June 2021,09/05/2025,email_addresses:geographic_locations:names:passwords,0,,7.5M
+Banorte,August 2014,12/12/2024,account_balances:email_addresses:genders:government_issued_ids:names:phone_numbers:physical_addresses,0,,2.1M
+SitePoint,June 2020,25/02/2025,bios:email_addresses:ip_addresses:names:passwords:usernames,0,,1M
+Shitexpress,August 2022,29/05/2025,email_addresses:ip_addresses:names:physical_addresses:private_messages:purchases,0,,23.8K
+Twitter,January 2022,09/09/2024,bios:email_addresses:geographic_locations:names:phone_numbers:profile_photos:usernames,0,,6.7M
+QuestionPro,May 2022,26/04/2025,browser_user_agent_details:email_addresses:ip_addresses:survey_results,0,,22.2M
+Tuned Global,March 2016,30/07/2025,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,985.6K
+Mecho Download,October 2013,27/02/2025,email_addresses:ip_addresses:passwords:usernames,0,,437.9K
+Battlefy,January 2016,22/09/2025,email_addresses:passwords:usernames,0,,83.6K
+Paytm,August 2020,07/07/2025,dates_of_birth:email_addresses:genders:geographic_locations:income_levels:names:phone_numbers:purchases,0,,3.4M
+Shadi.com,July 2016,12/02/2025,email_addresses:passwords,0,,2M
+PPCGeeks,August 2016,03/03/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,492.5K
+JukinMedia,October 2021,29/12/2024,email_addresses:employers:ip_addresses:names:occupations:passwords:phone_numbers,0,,314.3K
+Famm,October 2020,06/09/2024,dates_of_birth:email_addresses:genders:names:passwords,0,,535.2K
+Eskimi,September 2020,24/04/2025,dates_of_birth:email_addresses:genders:geographic_locations:passwords:usernames,0,,1.2M
+La Poste Mobile,July 2022,07/05/2025,bank_account_numbers:dates_of_birth:email_addresses:genders:names:phone_numbers:physical_addresses,0,,533.9K
+Mangatoon,May 2022,29/10/2024,auth_tokens:avatars:email_addresses:genders:names:passwords:social_media_profiles:usernames,0,,23M
+Capital Economics,December 2020,15/02/2025,email_addresses:employers:job_titles:names:phone_numbers:physical_addresses,0,,263.8K
+Bookchor,January 2021,05/03/2025,dates_of_birth:email_addresses:genders:ip_addresses:names:passwords:phone_numbers:social_media_profiles,0,,498.3K
+Bourse des Vols,January 2021,10/02/2025,dates_of_birth:email_addresses:flights_taken:ip_addresses:names:phone_numbers:physical_addresses:purchases,0,,1.5M
+DivX SubTitles,January 2010,27/12/2024,email_addresses:passwords:usernames,0,,783.1K
+CTARS,May 2021,17/12/2024,dates_of_birth:email_addresses:genders:names:passwords:personal_health_data:phone_numbers:physical_addresses:salutations:usernames,0,,12.3K
+Adecco,January 2021,02/09/2025,email_addresses:genders:geographic_locations:marital_statuses:names:passwords:phone_numbers,0,,4.3M
+MGM Resorts (2022 Update),July 2019,15/11/2024,dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,,24.8M
+Preen.Me,May 2020,19/03/2025,email_addresses:names:social_media_profiles:usernames,0,,236.1K
+Amart Furniture,May 2022,01/07/2025,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,108.9K
+Wendy's,March 2018,12/03/2025,education_levels:email_addresses:ip_addresses:job_applications:names:passwords:phone_numbers:physical_addresses,0,,52.5K
+SirHurt,April 2021,07/06/2025,email_addresses:ip_addresses:passwords:usernames,0,,90.7K
+Fanpass,April 2022,09/05/2025,email_addresses:genders:names:partial_dates_of_birth:passwords:phone_numbers:physical_addresses:purchases:social_media_profiles,0,,112.3K
+Read Novel,May 2019,19/09/2024,email_addresses:genders:passwords:phone_numbers:usernames,0,,22.4M
+BlackBerry Fans,May 2022,18/02/2025,email_addresses:ip_addresses:passwords:usernames,0,,174.2K
+OGUsers (2021 breach),April 2021,19/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,348.3K
+Paragon Cheats,May 2021,08/08/2025,browser_user_agent_details:email_addresses:ip_addresses:usernames,0,,188.1K
+PayHere,March 2022,09/06/2025,email_addresses:ip_addresses:names:partial_credit_card_data:phone_numbers:physical_addresses:purchases,0,,1.6M
+Aimware,April 2019,21/01/2025,email_addresses:ip_addresses:passwords:private_messages:usernames:website_activity,0,,305.5K
+Devil-Torrents.pl,January 2021,11/04/2025,email_addresses:passwords,0,,63.5K
+Avvo,December 2019,12/02/2025,email_addresses:passwords,0,,4.1M
+Travelio,November 2021,25/06/2025,auth_tokens:dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses,0,,471.4K
+Royal Enfield,January 2019,20/09/2025,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:social_media_profiles:vehicle_details,0,,420.9K
+ZAP-Hosting,November 2021,23/09/2024,browser_user_agent_details:chat_logs:email_addresses:ip_addresses:names:phone_numbers:physical_addresses:purchases,0,,746.7K
+CDEK,March 2022,12/05/2025,email_addresses:names:phone_numbers,0,,19.2M
+Robinhood,November 2021,13/06/2025,email_addresses,0,,5M
+MacGeneration,January 2022,23/02/2025,email_addresses:passwords:usernames,0,,101K
+NVIDIA,February 2022,09/02/2025,email_addresses:passwords,0,,71.3K
+GiveSendGo,February 2022,28/02/2025,email_addresses:geographic_locations:names:purchases,0,,90K
+RedDoorz,September 2020,09/07/2025,dates_of_birth:email_addresses:genders:names:occupations:passwords:phone_numbers,0,,5.9M
+BTC-Alpha,November 2021,18/10/2024,email_addresses:ip_addresses:passwords:usernames,0,,362.4K
+ShockGore,August 2020,03/08/2025,email_addresses:genders:ip_addresses:passwords:private_messages:usernames,0,,73.9K
+Open Subtitles,August 2021,26/02/2025,email_addresses:geographic_locations:ip_addresses:passwords:usernames,0,,6.8M
+Upstox,April 2021,23/07/2025,bank_account_numbers:dates_of_birth:email_addresses:family_members'_names:genders:government_issued_ids:income_levels:marital_statuses:nationalities:occupations:passwords:phone_numbers:physical_addresses,0,,111K
+Carding Mafia (December 2021),December 2021,01/04/2025,email_addresses:ip_addresses:passwords:usernames,0,,303.9K
+Aditya Birla Fashion and Retail,December 2021,04/12/2024,email_addresses:genders:income_levels:job_titles:marital_statuses:names:passwords:phone_numbers:physical_addresses:purchases:religions:salutations,0,,5.5M
+Guns.com,January 2021,08/12/2024,dates_of_birth:email_addresses:names:partial_credit_card_data:passwords:phone_numbers:physical_addresses:purchases,0,,375.9K
+Doxbin,January 2022,23/04/2025,browser_user_agent_details:email_addresses:passwords:usernames,0,,370.8K
+FlexBooker,December 2021,26/06/2025,email_addresses:names:partial_credit_card_data:passwords:phone_numbers,0,,3.8M
+DatPiff,August 2021,07/03/2025,email_addresses:passwords:security_questions_and_answers:usernames,0,,7.5M
+RedLine Stealer,December 2021,17/10/2024,email_addresses:passwords:usernames,0,,441.7K
+Protemps,October 2021,30/08/2025,email_addresses:genders:job_applications:marital_statuses:names:nationalities:passport_numbers:passwords:phone_numbers:physical_addresses:religions:salutations,0,,49.6K
+Gravatar,October 2020,23/10/2024,email_addresses:names:usernames,0,,114M
+IDC Games,March 2021,20/10/2024,email_addresses:passwords:usernames,0,,4M
+Ducks Unlimited,January 2021,14/09/2024,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses,0,,1.3M
+ActMobile,October 2021,22/03/2025,email_addresses:ip_addresses,0,,1.6M
+CyberServe,October 2021,10/01/2025,dates_of_birth:drinking_habits:email_addresses:family_structure:genders:geographic_locations:hiv_statuses:ip_addresses:names:passwords:personal_health_data:phone_numbers:physical_attributes:private_messages:profile_photos:religions:sexual_orientations:smoking_habits:usernames,0,,1.1M
+CoinMarketCap,October 2021,01/09/2025,email_addresses,0,,3.1M
+Thingiverse,October 2020,01/07/2025,dates_of_birth:email_addresses:ip_addresses:names:passwords:physical_addresses:usernames,0,,228.1K
+Playbook,October 2020,12/01/2025,email_addresses:job_titles:names:passwords:phone_numbers:social_media_profiles,0,,50.5K
+Fantasy Football Hub,October 2021,04/06/2025,email_addresses:ip_addresses:names:passwords:purchases:usernames,0,,66.5K
+Republican Party of Texas,September 2021,09/04/2025,browser_user_agent_details:email_addresses:geographic_locations:ip_addresses:names,0,,72.6K
+LinkedIn Scraped Data (2021),April 2021,07/02/2025,education_levels:email_addresses:genders:geographic_locations:job_titles:names:social_media_profiles,0,,125.7M
+Ajarn,December 2018,05/09/2024,dates_of_birth:education_levels:email_addresses:genders:geographic_locations:job_applications:marital_statuses:names:nationalities:passwords:phone_numbers:profile_photos,0,,266.4K
+Epik,September 2021,11/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,,15M
+IndiaMART,May 2021,10/05/2025,email_addresses:names:phone_numbers:physical_addresses,0,,20.2M
+Imavex,August 2021,02/11/2024,email_addresses:genders:names:partial_credit_card_data:passwords:phone_numbers:physical_addresses:purchases:usernames,0,,878.2K
+SubaGames,November 2016,27/05/2025,email_addresses:passwords:usernames,0,,6.1M
+Eatigo,October 2018,31/01/2025,email_addresses:genders:names:passwords:phone_numbers:social_media_profiles,0,,2.8M
+OrderSnapp,June 2020,03/07/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers,0,,1.3M
+MMG Fusion,December 2020,12/03/2025,appointments:dates_of_birth:email_addresses:genders:marital_statuses:names:passwords:phone_numbers:physical_addresses,0,,2.7M
+Audi,August 2019,11/09/2025,dates_of_birth:driver's_licenses:email_addresses:names:phone_numbers:physical_addresses:social_security_numbers:vehicle_details,0,,2.7M
+Guntrader,July 2021,07/01/2025,browser_user_agent_details:email_addresses:geographic_locations:ip_addresses:names:passwords:phone_numbers:physical_addresses:salutations,0,,112K
+Short Édition,June 2021,01/05/2025,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:social_media_profiles:usernames,0,,505.5K
+Vastaamo,March 2019,28/11/2024,email_addresses:names:personal_health_data:social_security_numbers,0,,30.4K
+Raychat,January 2021,30/04/2025,browser_user_agent_details:email_addresses:ip_addresses:names:passwords,0,,939K
+Teespring,April 2020,15/01/2025,email_addresses:geographic_locations:names:social_media_profiles,0,,8.2M
+yotepresto.com,June 2020,06/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.4M
+University of California,December 2020,21/08/2025,dates_of_birth:education_levels:email_addresses:ethnicities:genders:job_titles:names:phone_numbers:physical_addresses:social_security_numbers,0,,547.4K
+Fotolog,December 2018,08/09/2025,email_addresses:passwords:usernames,0,,16.7M
+Nameless Malware,January 2020,16/04/2025,email_addresses,0,,1.1M
+Domino's India,March 2021,15/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,,22.5M
+JD,January 2013,20/04/2025,email_addresses:passwords:phone_numbers:usernames,0,,77.4M
+MobiFriends,January 2020,16/05/2025,dates_of_birth:email_addresses:genders:passwords:usernames,0,,3.5M
+Moneycontrol,September 2017,24/03/2025,email_addresses:genders:geographic_locations:passwords:phone_numbers,0,,762.9K
+Yam,June 2013,16/07/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,13.3M
+Livpure,August 2020,27/12/2024,email_addresses:names:phone_numbers:physical_addresses:purchases:salutations,0,,269.6K
+Daily Quiz,January 2021,16/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,8M
+IIMJobs,December 2018,06/05/2025,dates_of_birth:email_addresses:geographic_locations:ip_addresses:job_applications:job_titles:names:passwords:phone_numbers,0,,4.2M
+WedMeGood,January 2021,04/06/2025,email_addresses:genders:names:passwords:phone_numbers:physical_addresses,0,,1.3M
+DriveSure,December 2020,27/03/2025,email_addresses:names:passwords:phone_numbers:physical_addresses:vehicle_details,0,,3.7M
+ParkMobile,March 2021,20/01/2025,email_addresses:licence_plates:names:passwords:phone_numbers,0,,20.9M
+Descomplica,March 2021,23/09/2024,email_addresses:names:partial_credit_card_data:passwords:purchases,0,,4.8M
+Jefit,August 2020,22/04/2025,email_addresses:ip_addresses:passwords:usernames,0,,9.1M
+Emotet,January 2021,20/01/2025,email_addresses:passwords,0,,4.3M
+bigbasket,October 2020,09/03/2025,dates_of_birth:email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,24.5M
+MangaDex,March 2021,22/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,3M
+ShopBack,September 2020,03/10/2024,email_addresses:geographic_locations:names:passwords:phone_numbers,0,,20.5M
+ClearVoice Surveys,August 2015,02/03/2025,dates_of_birth:email_addresses:genders:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,15.1M
+Phone House España,April 2021,19/01/2025,dates_of_birth:email_addresses:genders:names:nationalities:phone_numbers:physical_addresses,0,,5.2M
+Facebook,August 2019,18/08/2025,dates_of_birth:email_addresses:employers:genders:geographic_locations:names:phone_numbers:relationship_statuses,0,,509.5M
+Unverified Data Source,January 2021,27/05/2025,bank_account_numbers:credit_status_information:dates_of_birth:email_addresses:employers:health_insurance_information:income_levels:ip_addresses:names:personal_health_data:phone_numbers:physical_addresses:smoking_habits:social_security_numbers,0,,11.5M
+Carding Mafia (March 2021),March 2021,23/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,297.7K
+WeLeakInfo,March 2021,11/08/2025,browser_user_agent_details:email_addresses:employers:ip_addresses:names:partial_credit_card_data:physical_addresses:purchases,0,,11.8K
+Liker,March 2021,20/01/2025,auth_tokens:dates_of_birth:education_levels:email_addresses:geographic_locations:ip_addresses:names:passwords:phone_numbers:private_messages:security_questions_and_answers:social_media_profiles:usernames,0,,465.1K
+Travel Oklahoma,December 2020,19/11/2024,age_groups:dates_of_birth:email_addresses:genders:names:physical_addresses,0,,637.3K
+Gab,February 2021,18/10/2024,avatars:email_addresses:names:passwords:private_messages:usernames,0,,66.5K
+Oxfam,January 2021,26/08/2024,bank_account_numbers:dates_of_birth:email_addresses:genders:names:partial_credit_card_data:payment_histories:phone_numbers:physical_addresses,0,,1.8M
+Ticketcounter,February 2021,05/07/2025,bank_account_numbers:dates_of_birth:email_addresses:genders:ip_addresses:names:payment_histories:phone_numbers:physical_addresses,0,,1.9M
+SuperVPN & GeckoVPN,February 2021,03/04/2025,device_information:device_serial_numbers:email_addresses:geographic_locations:imsi_numbers:login_histories,0,,20.3M
+Filmai.in,January 2020,19/01/2025,email_addresses:passwords:usernames,0,,645.8K
+NurseryCam,February 2021,14/12/2024,email_addresses,0,,10.6K
+People's Energy,December 2020,23/02/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses,0,,358.8K
+NetGalley,December 2020,04/02/2025,dates_of_birth:email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,1.4M
+CityBee,February 2021,03/10/2024,email_addresses:government_issued_ids:names:passwords,0,,110.2K
+Ge.tt,May 2017,20/10/2024,email_addresses:names:passwords:social_media_profiles,0,,2.5M
+StoryBird,August 2015,25/12/2024,email_addresses:names:passwords:usernames,0,,1M
+Pixlr,October 2020,30/10/2024,email_addresses:geographic_locations:names:passwords:social_media_profiles,0,,1.9M
+MeetMindful,January 2020,24/12/2024,dates_of_birth:drinking_habits:drug_habits:email_addresses:genders:geographic_locations:ip_addresses:marital_statuses:names:passwords:physical_attributes:religions:sexual_orientations:smoking_habits:social_media_profiles:usernames,0,,1.4M
+Bonobos,August 2020,23/09/2025,email_addresses:historical_passwords:ip_addresses:names:partial_credit_card_data:passwords:phone_numbers:physical_addresses:purchases,0,,2.8M
+Nitro,September 2020,03/10/2024,email_addresses:names:passwords,0,,77.2M
+Romwe,June 2018,27/10/2024,geographic_locations:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,19.5M
+Jobandtalent,February 2018,26/04/2025,email_addresses:ip_addresses:names:passwords,0,,11M
+Glofox,March 2020,04/09/2025,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers,0,,2.3M
+GeniusU,October 2020,09/07/2025,email_addresses:genders:ip_addresses:names:passwords:social_media_profiles,0,,1.3M
+Ledger,June 2020,06/08/2025,email_addresses:names:phone_numbers:physical_addresses,0,,1.1M
+Peatix,January 2019,08/01/2025,email_addresses:names:passwords,0,,4.2M
+Pluto TV,October 2018,01/02/2025,dates_of_birth:device_information:email_addresses:genders:ip_addresses:names:passwords:social_media_profiles:usernames,0,,3.2M
+Cit0day,November 2020,27/07/2025,email_addresses:passwords,0,,226.9M
+123RF,March 2020,14/11/2024,email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,8.7M
+Home Chef,February 2020,25/08/2024,email_addresses:geographic_locations:ip_addresses:names:partial_credit_card_data:passwords:phone_numbers,0,,8.8M
+Animal Jam,October 2020,06/09/2025,dates_of_birth:email_addresses:genders:ip_addresses:names:passwords:physical_addresses:usernames,0,,7.1M
+Mashable,June 2020,04/06/2025,auth_tokens:email_addresses:genders:geographic_locations:ip_addresses:names:partial_dates_of_birth:social_media_profiles,0,,1.4M
+Lazada RedMart,July 2020,03/04/2025,email_addresses:names:partial_credit_card_data:passwords:phone_numbers:physical_addresses,0,,1.1M
+James,March 2020,07/09/2024,email_addresses:geographic_locations:passwords,0,,1.5M
+Wongnai,October 2020,21/07/2025,dates_of_birth:email_addresses:geographic_locations:ip_addresses:names:passwords:phone_numbers:social_media_profiles,0,,3.9M
+Minted,May 2020,27/03/2025,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,4.4M
+Promofarma,August 2019,04/08/2025,email_addresses:names,0,,1.3M
+StarTribune,October 2019,12/07/2025,dates_of_birth:email_addresses:genders:names:passwords:physical_addresses:usernames,0,,2.2M
+Reincubate,May 2017,02/06/2025,email_addresses:names:passwords,0,,616.1K
+Chowbus,October 2020,23/06/2025,email_addresses:names:phone_numbers:physical_addresses,0,,444.2K
+WiziShop,July 2020,23/10/2024,dates_of_birth:email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,2.9M
+Experian (South Africa),August 2020,29/08/2024,email_addresses:employers:government_issued_ids:names:occupations:phone_numbers,0,,1.3M
+LiveAuctioneers,June 2020,09/09/2025,email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,3.4M
+Unico Campania,August 2020,26/07/2025,email_addresses:passwords,0,,166K
+Utah Gun Exchange,July 2020,12/11/2024,email_addresses:genders:ip_addresses:passwords:usernames,0,,235.2K
+Catho,March 2020,29/09/2024,email_addresses:names:passwords:usernames,0,,1.2M
+Sonicbids,December 2019,16/04/2025,email_addresses:names:passwords:usernames,0,,751.7K
+Zoosk (2020),January 2020,11/02/2025,dates_of_birth:drinking_habits:education_levels:email_addresses:ethnicities:family_structure:genders:geographic_locations:income_levels:names:nicknames:physical_attributes:political_views:relationship_statuses:religions:sexual_orientations:smoking_habits,0,,23.9M
+ProctorU,June 2020,18/08/2025,email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,444.5K
+Kreditplus,June 2020,10/01/2025,dates_of_birth:email_addresses:employers:family_structure:genders:income_levels:living_costs:marital_statuses:mothers_maiden_names:names:phone_numbers:physical_addresses:places_of_birth:religions:spouses_names,0,,768.9K
+TrueFire,February 2020,06/05/2025,account_balances:dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,599.7K
+집꾸미기,March 2020,18/07/2025,email_addresses:names:phone_numbers:usernames,0,,1.3M
+Vakinha,June 2020,18/08/2025,dates_of_birth:email_addresses:ip_addresses:names:passwords:phone_numbers,0,,4.8M
+Havenly,June 2020,10/11/2024,email_addresses:geographic_locations:names:passwords:phone_numbers,0,,1.4M
+Swvl,June 2020,08/06/2025,email_addresses:names:partial_credit_card_data:passwords:phone_numbers:profile_photos,0,,4.2M
+Appen,June 2020,22/02/2025,email_addresses:employers:ip_addresses:names:passwords:phone_numbers,0,,5.9M
+Scentbird,June 2020,15/01/2025,dates_of_birth:email_addresses:genders:names:password_strengths:passwords,0,,5.8M
+Chatbooks,March 2020,25/10/2024,email_addresses:names:passwords:phone_numbers:social_media_profiles,0,,2.5M
+Dunzo,June 2020,08/06/2025,device_information:email_addresses:geographic_locations:ip_addresses:names:phone_numbers,0,,3.5M
+Drizly,July 2020,30/08/2025,dates_of_birth:device_information:email_addresses:ip_addresses:names:passwords:phone_numbers:physical_addresses,0,,2.5M
+Hurb,March 2019,08/11/2024,dates_of_birth:email_addresses:ip_addresses:names:passwords:phone_numbers:social_media_profiles,0,,20.7M
+Dave,June 2020,24/02/2025,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:social_security_numbers,0,,3M
+Promo,June 2020,13/09/2025,email_addresses:genders:ip_addresses:names:passwords,0,,14.6M
+Wattpad,June 2020,15/09/2024,bios:dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:names:passwords:social_media_profiles:user_website_urls:usernames,0,,268.8M
+Quidd,July 2019,14/05/2025,email_addresses:passwords:usernames,0,,3.8M
+Foodora,April 2016,30/09/2024,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,582.6K
+Mathway,January 2020,05/07/2025,device_information:email_addresses:names:passwords:social_media_profiles,0,,25.7M
+Zoomcar,July 2018,13/06/2025,email_addresses:ip_addresses:names:passwords:phone_numbers,0,,3.6M
+Lead Hunter,March 2020,20/12/2024,email_addresses:genders:ip_addresses:names:phone_numbers:physical_addresses,0,,68.7M
+Wishbone (2020),January 2020,30/10/2024,auth_tokens:dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:names:passwords:phone_numbers:profile_photos:social_media_profiles:usernames,0,,9.7M
+LiveJournal,January 2017,14/09/2024,email_addresses:passwords:usernames,0,,26.4M
+PetFlow,December 2017,21/08/2025,email_addresses:passwords,0,,990.9K
+Artsy,April 2018,17/02/2025,email_addresses:ip_addresses:names:passwords,0,,1.1M
+Lifebear,February 2019,10/03/2025,email_addresses:passwords:usernames,0,,3.7M
+Nulled.ch,May 2020,25/08/2024,email_addresses:ip_addresses:passwords:private_messages:usernames,0,,43.5K
+Covve,February 2020,03/11/2024,email_addresses:job_titles:names:phone_numbers:physical_addresses:social_media_profiles,0,,22.8M
+Ulmon,January 2020,12/03/2025,bios:email_addresses:names:passwords:phone_numbers:social_media_profiles,0,,777.8K
+Elanic,January 2018,24/08/2024,email_addresses:geographic_locations:usernames,0,,2.3M
+TaiLieu,November 2019,28/10/2024,dates_of_birth:email_addresses:genders:geographic_locations:names:passwords:phone_numbers:usernames,0,,7.3M
+Tokopedia,April 2020,29/09/2024,dates_of_birth:email_addresses:genders:names:passwords,0,,71.4M
+Vianet,April 2020,04/10/2024,email_addresses:names:phone_numbers:physical_addresses,0,,94.4K
+Aptoide,April 2020,29/10/2024,browser_user_agent_details:email_addresses:ip_addresses:names:passwords,0,,20M
+HTC Mania,January 2020,24/12/2024,dates_of_birth:email_addresses:historical_passwords:ip_addresses:passwords:usernames,0,,1.5M
+OGUsers (2020 breach),April 2020,25/04/2025,email_addresses:ip_addresses:passwords:private_messages:usernames,0,,263.2K
+Dueling Network,March 2017,18/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,6.5M
+Tamodo,February 2020,06/09/2024,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:names:passwords,0,,494.9K
+PropTiger,January 2018,26/09/2024,dates_of_birth:device_information:email_addresses:genders:ip_addresses:names:passwords,0,,2.2M
+The Halloween Spot,September 2019,13/03/2025,email_addresses:ip_addresses:names:phone_numbers:physical_addresses:purchases,0,,10.7K
+AnimeGame,February 2020,27/02/2025,email_addresses:passwords:usernames,0,,1.4M
+Straffic,February 2020,21/10/2024,email_addresses:genders:names:phone_numbers:physical_addresses,0,,48.6M
+Slickwraps,February 2020,25/11/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,,857.6K
+MGM Resorts,July 2019,23/09/2024,dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,,3.1M
+Adult FriendFinder (2016),October 2016,19/09/2024,email_addresses:passwords:spoken_languages:usernames,0,,169.7M
+DailyObjects,January 2018,19/04/2025,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,464.3K
+Tout,September 2014,12/04/2025,bios:email_addresses:geographic_locations:ip_addresses:names:passwords:usernames,0,,652.7K
+europa.jobs,August 2019,30/03/2025,dates_of_birth:email_addresses:geographic_locations:job_applications:names:passwords:phone_numbers:spoken_languages,0,,226.1K
+Planet Calypso,July 2019,09/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,62.3K
+BtoBet,December 2019,20/01/2025,dates_of_birth:email_addresses:financial_transactions:geographic_locations:ip_addresses:names:usernames,0,,444.2K
+Go Games,October 2015,01/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,3.4M
+Indian Railways,October 2019,10/09/2025,email_addresses:passwords:usernames,0,,583.4K
+Universarium,November 2019,02/06/2025,email_addresses:passwords,0,,565K
+Factual,March 2017,01/12/2024,email_addresses:employers:phone_numbers:physical_addresses,0,,2.5M
+Zynga,September 2019,24/09/2024,email_addresses:passwords:phone_numbers:usernames,0,,172.9M
+AgusiQ-Torrents.pl,September 2019,30/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,90.5K
+Data Enrichment Exposure From PDL Customer,October 2019,05/03/2025,email_addresses:employers:geographic_locations:job_titles:names:phone_numbers:social_media_profiles,0,,622.2M
+GateHub,June 2019,01/07/2025,email_addresses:encrypted_keys:mnemonic_phrases:passwords,0,,1.4M
+EpicBot,September 2019,30/04/2025,email_addresses:ip_addresses:passwords:usernames,0,,816.7K
+GPS Underground,July 2016,20/11/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,669.6K
+ToonDoo,August 2019,11/09/2025,email_addresses:genders:geographic_locations:ip_addresses:passwords:usernames,0,,6M
+Vedantu,July 2019,15/02/2025,browser_user_agent_details:email_addresses:genders:ip_addresses:names:passwords:phone_numbers:spoken_languages:time_zones:website_activity,0,,686.9K
+Hookers.nl,October 2019,20/08/2025,email_addresses:ip_addresses:passwords:usernames,0,,291K
+Zooville,September 2019,30/09/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,71.4K
+StreetEasy,June 2016,28/02/2025,email_addresses:names:passwords:usernames,0,,988.2K
+Sephora,January 2017,18/08/2025,dates_of_birth:email_addresses:ethnicities:genders:names:physical_attributes,0,,780.1K
+Wanelo,December 2018,27/07/2025,email_addresses:ip_addresses:names:passwords:physical_addresses,0,,23.2M
+Lumin PDF,April 2019,27/08/2024,auth_tokens:email_addresses:genders:names:passwords:spoken_languages:usernames,0,,15.5M
+KiwiFarms,September 2019,04/07/2025,avatars:dates_of_birth:email_addresses:ip_addresses:website_activity,0,,4.6K
+Minehut,May 2019,28/08/2025,email_addresses:passwords,0,,396.5K
+Void.to,June 2019,07/06/2025,email_addresses:ip_addresses:passwords:private_messages:usernames,0,,95.4K
+Poshmark,May 2018,13/09/2024,email_addresses:genders:geographic_locations:names:passwords:usernames,0,,36.4M
+Mastercard Priceless Specials,August 2019,04/05/2025,email_addresses:ip_addresses:names:partial_credit_card_data:phone_numbers:salutations,0,,89.4K
+XKCD,July 2019,29/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,562K
+Coinmama,August 2017,25/02/2025,email_addresses:passwords:usernames,0,,478.8K
+Chegg,April 2018,04/12/2024,email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,39.7M
+Cracked.to,July 2019,27/02/2025,email_addresses:ip_addresses:passwords:private_messages:usernames,0,,749.2K
+StockX,July 2019,24/02/2025,email_addresses:names:passwords:physical_addresses:purchases:usernames,0,,6.8M
+Canva,May 2019,23/03/2025,email_addresses:geographic_locations:names:passwords:usernames,0,,137.3M
+CafePress,February 2019,05/08/2025,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,23.2M
+Club Penguin Rewritten (July 2019),July 2019,19/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,4M
+Anime-Planet,January 2016,23/08/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,368.5K
+EpicNPC,January 2016,12/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,408.8K
+Clash of Kings,July 2016,25/08/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.6M
+Snail,March 2015,20/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.4M
+Xiaomi,August 2012,29/08/2025,email_addresses:ip_addresses:passwords:usernames,0,,7.1M
+Flash Flash Revolution (2019 breach),July 2019,14/12/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,1.9M
+Stronghold Kingdoms,July 2018,01/09/2025,email_addresses:passwords:usernames,0,,5.2M
+GameSalad,February 2019,19/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.5M
+Armor Games,January 2019,20/10/2024,bios:dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:passwords:usernames,0,,10.6M
+Roll20,December 2018,17/02/2025,email_addresses:ip_addresses:names:partial_credit_card_data:passwords,0,,4M
+Artvalue,June 2019,06/12/2024,email_addresses:names:passwords:salutations:usernames,0,,157.7K
+EatStreet,May 2019,25/10/2024,dates_of_birth:email_addresses:genders:names:partial_credit_card_data:passwords:phone_numbers:physical_addresses:social_media_profiles,0,,6.4M
+Bulgarian National Revenue Agency,July 2019,14/06/2025,email_addresses:names:phone_numbers:physical_addresses:taxation_records,0,,471.2K
+YouNow,February 2019,25/10/2024,email_addresses:ip_addresses:names:social_media_profiles:usernames,0,,18.2M
+Animoto,July 2018,01/09/2025,dates_of_birth:email_addresses:geographic_locations:names:passwords,0,,22.4M
+BlackSpigotMC,July 2019,12/11/2024,device_information:email_addresses:genders:geographic_locations:ip_addresses:passwords:usernames,0,,140K
+SHEIN,June 2018,01/07/2025,email_addresses:passwords,0,,39.1M
+piZap,December 2017,24/08/2024,email_addresses:genders:geographic_locations:names:passwords:social_media_profiles:usernames:website_activity,0,,41.8M
+Netlog,November 2012,06/08/2025,email_addresses:passwords,0,,49M
+Evite,August 2013,12/10/2024,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses,0,,101M
+Mindjolt,March 2019,27/05/2025,dates_of_birth:email_addresses:names,0,,28.4M
+Zhenai.com,December 2011,20/07/2025,email_addresses:passwords,0,,5M
+Wiener Büchereien,June 2019,18/02/2025,dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,,224.1K
+Social Engineered,June 2019,12/06/2025,email_addresses:ip_addresses:passwords:private_messages:usernames,0,,89.4K
+D3Scene,January 2016,24/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,568.8K
+Emuparadise,April 2018,07/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.1M
+Ordine Avvocati di Roma,May 2019,27/09/2024,email_addresses:email_messages:geographic_locations:passwords:phone_numbers,0,,42K
+OGUsers (2019 breach),December 2018,10/05/2025,email_addresses:ip_addresses:passwords:private_messages:usernames,0,,161.1K
+Appartoo,March 2017,27/06/2025,ages:auth_tokens:email_addresses:employment_statuses:genders:ip_addresses:marital_statuses:names:passwords:physical_addresses:private_messages:social_media_profiles,0,,49.7K
+Club Penguin Rewritten (January 2018),January 2018,29/06/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.7M
+Morele.net,October 2018,04/03/2025,email_addresses:names:passwords:phone_numbers,0,,2.5M
+Bukalapak,October 2017,26/12/2024,email_addresses:ip_addresses:names:passwords:usernames,0,,13.4M
+DataCamp,January 2017,14/04/2025,email_addresses:geographic_locations:ip_addresses:names:passwords,0,,760.6K
+Knuddels,September 2018,21/05/2025,email_addresses:geographic_locations:names:passwords:usernames,0,,808.3K
+Demon Forums,February 2019,19/09/2024,email_addresses:passwords:usernames,0,,52.6K
+Everybody Edits,March 2019,05/09/2024,email_addresses:ip_addresses:usernames,0,,871.2K
+Intelimost,March 2019,07/10/2024,email_addresses:passwords,0,,3.1M
+Whitepages,June 2016,06/05/2025,email_addresses:names:passwords,0,,11.7M
+500px,July 2018,15/04/2025,dates_of_birth:email_addresses:genders:geographic_locations:names:passwords:usernames,0,,14.9M
+Bookmate,July 2018,29/11/2024,dates_of_birth:email_addresses:genders:geographic_locations:names:passwords:usernames,0,,3.8M
+HauteLook,August 2018,25/12/2024,dates_of_birth:email_addresses:genders:geographic_locations:names:passwords,0,,28.5M
+8fit,July 2018,30/08/2024,email_addresses:genders:geographic_locations:ip_addresses:names:passwords,0,,15M
+ixigo,January 2019,25/11/2024,auth_tokens:device_information:email_addresses:genders:names:passwords:phone_numbers:salutations:social_media_profiles:usernames,0,,17.2M
+Houzz,May 2018,03/07/2025,email_addresses:geographic_locations:ip_addresses:names:passwords:social_media_profiles:usernames,0,,48.9M
+Verifications.io,February 2019,06/04/2025,dates_of_birth:email_addresses:employers:genders:geographic_locations:ip_addresses:job_titles:names:phone_numbers:physical_addresses,0,,763.1M
+ShareThis,July 2018,27/07/2025,dates_of_birth:email_addresses:names:passwords,0,,41M
+Dubsmash,December 2018,24/01/2025,email_addresses:geographic_locations:names:passwords:phone_numbers:spoken_languages:usernames,0,,161.7M
+MyFitnessPal,February 2018,15/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,143.6M
+MyHeritage,October 2017,27/05/2025,email_addresses:passwords,0,,92M
+EyeEm,February 2018,04/01/2025,bios:email_addresses:names:passwords:usernames,0,,19.6M
+devkitPro,February 2019,25/02/2025,email_addresses:passwords:private_messages,0,,1.5K
+Collection #1,January 2019,02/07/2025,email_addresses:passwords,0,,772.9M
+FaceUP,January 2013,05/03/2025,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:usernames,0,,87.6K
+Dangdang,June 2011,01/03/2025,email_addresses,0,,4.8M
+BannerBit,December 2018,01/12/2024,email_addresses:passwords,0,,213.4K
+BlankMediaGames,December 2018,12/11/2024,browser_user_agent_details:email_addresses:ip_addresses:passwords:purchases:usernames:website_activity,0,,7.6M
+GoldSilver,October 2018,28/08/2025,bank_account_numbers:email_addresses:ip_addresses:names:partial_credit_card_data:passport_numbers:phone_numbers:physical_addresses:purchases:security_questions_and_answers:social_security_numbers,0,,242.7K
+Mappery,December 2018,31/08/2024,email_addresses:geographic_locations:passwords:usernames,0,,205.2K
+Bombuj.eu,December 2018,01/02/2025,email_addresses:passwords,0,,575.4K
+Hub4Tech,January 2017,02/09/2025,email_addresses:passwords,0,,36.9K
+You've Been Scraped,October 2018,05/08/2025,email_addresses:employers:geographic_locations:job_titles:names:social_media_profiles,0,,66.1M
+AerServ,April 2018,27/02/2025,email_addresses:employers:job_titles:names:passwords:phone_numbers:physical_addresses,0,,66.3K
+ForumCommunity,June 2016,04/03/2025,email_addresses:passwords:usernames,0,,776.6K
+Technic,November 2018,20/06/2025,chat_logs:email_addresses:ip_addresses:passwords:private_messages:time_zones,0,,265.4K
+Data & Leads,November 2018,11/11/2024,email_addresses:employers:ip_addresses:job_titles:names:phone_numbers:physical_addresses,0,,44.3M
+Adapt,November 2018,25/12/2024,email_addresses:employers:job_titles:names:phone_numbers:physical_addresses:social_media_profiles,0,,9.4M
+HTH Studios,August 2018,22/01/2025,browser_user_agent_details:dates_of_birth:email_addresses:ip_addresses:names:phone_numbers:physical_addresses:purchases:usernames,0,,411.8K
+Elasticsearch Instance of Sales Leads on AWS,October 2018,11/08/2025,email_addresses:employers:names:physical_addresses,0,,5.8M
+KnownCircle,April 2016,14/07/2025,email_addresses:email_messages:genders:names:passwords:phone_numbers:physical_addresses,0,,2M
+Rbx.Rocks,August 2018,14/08/2025,email_addresses:names:passwords,0,,150K
+Società Italiana degli Autori ed Editori,November 2018,06/12/2024,email_addresses:ip_addresses:names:passwords:phone_numbers,0,,14.6K
+WPSandbox,November 2018,15/03/2025,email_addresses:passwords,0,,858
+JoomlArt,January 2018,25/04/2025,email_addresses:names:passwords:payment_histories:usernames,0,,22.5K
+Mac Forums,July 2016,17/02/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,326.7K
+Baby Names,October 2008,06/11/2024,email_addresses:passwords,0,,846.7K
+Wife Lovers,October 2018,26/01/2025,email_addresses:ip_addresses:names:passwords:usernames,0,,1.3M
+Facepunch,June 2016,23/04/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,342.9K
+Apollo,July 2018,20/11/2024,email_addresses:employers:geographic_locations:job_titles:names:phone_numbers:salutations:social_media_profiles,0,,125.9M
+Digimon,September 2016,30/01/2025,email_addresses:email_messages:ip_addresses:names,0,,7.7M
+SaverSpy,September 2018,09/10/2024,email_addresses:genders:names:physical_addresses,0,,2.5M
+Real Estate Mogul,September 2016,18/01/2025,email_addresses:names:phone_numbers:physical_addresses,0,,307.8K
+NemoWeb,September 2016,16/08/2025,email_addresses:names,0,,3.5M
+Kayo.moe Credential Stuffing List,September 2018,07/08/2025,email_addresses:passwords,0,,41.8M
+Russian America,January 2017,29/07/2025,email_addresses:names:passwords:phone_numbers,0,,182.7K
+FreshMenu,July 2016,14/07/2025,device_information:email_addresses:names:phone_numbers:physical_addresses:purchases,0,,110.4K
+NapsGear,October 2015,13/08/2025,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:purchases,0,,287.1K
+Warmane,December 2016,02/03/2025,dates_of_birth:email_addresses:passwords:usernames,0,,1.1M
+Mortal Online,June 2018,25/07/2025,email_addresses:names:passwords:physical_addresses:usernames,0,,606.6K
+SvenskaMagic,July 2015,03/04/2025,email_addresses:passwords:usernames,0,,30.3K
+Atlas Quantum,August 2018,05/09/2024,account_balances:email_addresses:names:phone_numbers,0,,261.5K
+SpyFone,August 2018,20/04/2025,audio_recordings:browsing_histories:device_information:email_addresses:geographic_locations:imei_numbers:ip_addresses:names:passwords:photos:sms_messages,0,,44.1K
+MyFHA,February 2015,03/05/2025,credit_status_information:email_addresses:income_levels:ip_addresses:loan_information:names:passwords:personal_descriptions:physical_addresses,0,,972.6K
+Lanwar,July 2018,10/12/2024,email_addresses:names:passwords:physical_addresses:usernames,0,,45.1K
+Adult-FanFiction.Org,May 2018,11/03/2025,dates_of_birth:email_addresses:names:passwords,0,,186.1K
+Fashion Nexus,July 2018,10/04/2025,browser_user_agent_details:dates_of_birth:email_addresses:genders:ip_addresses:names:passwords:phone_numbers:physical_addresses:purchases,0,,1.3M
+League of Legends,June 2012,29/09/2024,email_addresses:passwords:usernames,0,,339.5K
+Exactis,June 2018,06/09/2024,credit_status_information:dates_of_birth:education_levels:email_addresses:ethnicities:family_structure:financial_investments:genders:home_ownership_statuses:income_levels:ip_addresses:marital_statuses:names:net_worths:occupations:personal_interests:phone_numbers:physical_addresses:religions:spoken_languages,0,,131.6M
+Funny Games,April 2018,04/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,764.4K
+Pemiblanc,April 2018,25/06/2025,email_addresses:passwords,0,,111M
+Yatra,September 2013,20/10/2024,dates_of_birth:email_addresses:names:passwords:phone_numbers:physical_addresses:pins,0,,5M
+Light's Hope,June 2018,12/09/2025,dates_of_birth:email_addresses:geographic_locations:ip_addresses:passwords:private_messages:usernames,0,,30.5K
+Gaadi,May 2015,11/04/2025,email_addresses:genders:geographic_locations:ip_addresses:names:passwords:phone_numbers:usernames,0,,4.3M
+Trik Spam Botnet,June 2018,21/04/2025,email_addresses,0,,43.4M
+Estonian Citizens (via Estonian Cybercrime Bureau),June 2018,04/10/2024,email_addresses:passwords,0,,655.2K
+Creative,May 2018,28/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,483K
+Linux Forums,May 2018,12/09/2025,email_addresses:ip_addresses:passwords:usernames,0,,275.8K
+Ticketfly,May 2018,14/12/2024,email_addresses:names:phone_numbers:physical_addresses,0,,26.2M
+ViewFines,May 2018,06/05/2025,email_addresses:government_issued_ids:names:passwords:phone_numbers,0,,777.6K
+VNG,May 2015,31/01/2025,dates_of_birth:email_addresses:genders:ip_addresses:marital_statuses:names:occupations:passwords:phone_numbers:physical_addresses:usernames,0,,24.9M
+17173,December 2011,21/11/2024,email_addresses:passwords:usernames,0,,7.5M
+TGBUS,September 2017,04/12/2024,email_addresses:passwords:usernames,0,,10.4M
+ILikeCheats,October 2014,23/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,188.8K
+CashCrate,November 2016,31/03/2025,email_addresses:names:passwords:physical_addresses,0,,6.8M
+Taringa,August 2017,29/07/2025,email_addresses:passwords:usernames,0,,28M
+Smogon,September 2017,11/09/2024,email_addresses:genders:geographic_locations:passwords:usernames:website_activity,0,,386.5K
+HiAPK,January 2014,22/04/2025,email_addresses:passwords:usernames,0,,13.9M
+Bestialitysextaboo,March 2018,08/09/2024,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:passwords:private_messages:usernames,0,,3.2K
+MDPI,August 2016,14/09/2025,email_addresses:email_messages:ip_addresses:names,0,,845K
+Florida Virtual School,February 2018,12/01/2025,dates_of_birth:email_addresses:names:passwords:school_grades_(class_levels):usernames,0,,542.9K
+MangaFox.me,June 2016,14/03/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,1.3M
+xHamster,November 2016,16/05/2025,email_addresses:passwords:usernames,0,,377.4K
+"2,844 Separate Data Breaches",February 2018,08/12/2024,email_addresses:passwords,0,,80.1M
+Underworld Empire,April 2017,28/08/2025,email_addresses:ip_addresses:passwords:usernames,0,,428.8K
+8tracks,June 2017,25/11/2024,email_addresses:passwords,0,,18M
+Guns and Robots,April 2016,30/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,143.6K
+Autocentrum.pl,February 2018,24/12/2024,email_addresses:passwords,0,,143.7K
+TheTVDB.com,November 2017,25/08/2025,email_addresses:passwords:usernames,0,,181.9K
+The Fly on the Wall,December 2017,11/01/2025,age_groups:credit_cards:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:purchases:usernames,0,,84K
+Lyrics Mania,December 2017,18/08/2025,email_addresses:passwords:usernames,0,,109.2K
+Open CS:GO,November 2017,08/12/2024,avatars:email_addresses:ip_addresses:phone_numbers:physical_addresses:purchases:social_media_profiles:usernames,0,,512.3K
+2fast4u,December 2017,21/12/2024,email_addresses:passwords:usernames,0,,17.7K
+HoundDawgs,December 2017,30/10/2024,email_addresses:ip_addresses:passwords:website_activity,0,,45.7K
+Ancestry,November 2015,10/11/2024,email_addresses:passwords,0,,297.8K
+CrackingForum,July 2016,02/04/2025,email_addresses:ip_addresses:passwords:usernames,0,,660.3K
+dvd-shop.ch,December 2017,19/05/2025,email_addresses:passwords,0,,68K
+Netshoes,December 2017,23/06/2025,dates_of_birth:email_addresses:names:purchases,0,,499.8K
+ai.type,December 2017,04/04/2025,address_book_contacts:apps_installed_on_devices:cellular_network_names:dates_of_birth:device_information:email_addresses:genders:geographic_locations:imei_numbers:imsi_numbers:ip_addresses:names:phone_numbers:profile_photos:social_media_profiles,0,,20.6M
+imgur,September 2013,03/03/2025,email_addresses:passwords,0,,1.7M
+Bolt,March 2017,07/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,995.3K
+V-Tight Gel,February 2016,16/09/2024,email_addresses:ip_addresses:names:phone_numbers:physical_addresses,0,,2M
+PoliceOne,July 2014,13/10/2024,email_addresses:ip_addresses:passwords:usernames,0,,709.9K
+Coupon Mom / Armor Games,February 2014,02/08/2025,email_addresses:passwords,0,,11M
+CafeMom,April 2014,26/01/2025,email_addresses:passwords,0,,2.6M
+RankWatch,November 2016,16/07/2025,email_addresses:employers:job_titles:names:phone_numbers,0,,7.4M
+JobStreet,March 2012,11/09/2024,dates_of_birth:email_addresses:genders:geographic_locations:government_issued_ids:marital_statuses:names:nationalities:passwords:phone_numbers:physical_addresses:usernames,0,,3.9M
+Shotbow,May 2016,10/09/2024,email_addresses:passwords:usernames,0,,1.1M
+Master Deeds,March 2017,20/07/2025,dates_of_birth:deceased_statuses:email_addresses:employers:ethnicities:genders:government_issued_ids:home_ownership_statuses:job_titles:names:nationalities:phone_numbers:physical_addresses,0,,2.3M
+We Heart It,November 2013,02/05/2025,email_addresses:passwords:usernames,0,,8.6M
+diet.com,August 2014,27/12/2024,dates_of_birth:eating_habits:email_addresses:ip_addresses:names:passwords:physical_attributes:usernames,0,,1.4M
+Victory Phones,January 2017,16/12/2024,dates_of_birth:email_addresses:ip_addresses:names:phone_numbers:physical_addresses,0,,166K
+AbuseWith.Us,July 2016,16/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.4M
+Disqus,July 2012,21/02/2025,email_addresses:passwords:usernames,0,,17.6M
+Kickstarter,February 2014,08/11/2024,email_addresses:passwords,0,,5.2M
+Bitly,May 2014,18/06/2025,email_addresses:passwords:usernames,0,,9.3M
+ReverbNation,January 2014,04/06/2025,email_addresses:passwords,0,,7M
+Staminus,March 2016,26/08/2024,credit_cards:email_addresses:ip_addresses:passwords:support_tickets:usernames,0,,26.8K
+AKP Emails,July 2016,01/10/2024,email_addresses:email_messages,0,,917.5K
+7k7k,January 2011,08/11/2024,email_addresses:passwords:usernames,0,,9.1M
+Zomato,May 2017,08/08/2025,email_addresses:passwords:usernames,0,,16.5M
+MALL.cz,July 2017,10/09/2025,email_addresses:names:passwords:phone_numbers,0,,735.4K
+Onliner Spambot,August 2017,30/09/2024,email_addresses:passwords,0,,711.5M
+Biohack.me,December 2016,27/06/2025,email_addresses:passwords:private_messages:usernames,0,,3.4K
+Bin Weevils,September 2014,04/04/2025,ages:email_addresses:genders:ip_addresses:passwords:usernames,0,,1.3M
+Dailymotion,October 2016,11/01/2025,email_addresses:passwords:usernames,0,,85.2M
+MCBans,October 2016,28/01/2025,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,119.9K
+B2B USA Businesses,July 2017,15/08/2025,email_addresses:employers:job_titles:names:phone_numbers:physical_addresses,0,,105.1M
+Evermotion,May 2015,16/06/2025,dates_of_birth:email_addresses:passwords:usernames,0,,435.5K
+Programming Forums,December 2015,16/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,707.4K
+Powerbot,September 2014,14/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,503.5K
+XPG,January 2016,12/08/2025,email_addresses:ip_addresses:passwords:usernames,0,,890.3K
+Coachella,February 2017,14/02/2025,email_addresses:ip_addresses:passwords:usernames,0,,599.8K
+Exposed VINs,June 2017,26/04/2025,dates_of_birth:email_addresses:family_structure:genders:names:phone_numbers:physical_addresses:vehicle_details,0,,396.7K
+Data Enrichment Records,December 2016,17/01/2025,buying_preferences:charitable_donations:credit_status_information:dates_of_birth:email_addresses:family_structure:financial_investments:home_ownership_statuses:income_levels:job_titles:marital_statuses:names:net_worths:phone_numbers:physical_addresses:political_donations,0,,8.2M
+Abandonia (2015),November 2015,21/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,776.1K
+Edmodo,May 2017,29/07/2025,email_addresses:passwords:usernames,0,,43.4M
+DaFont,May 2017,18/01/2025,email_addresses:passwords:usernames,0,,637.3K
+Bell (2017 breach),May 2017,01/03/2025,email_addresses:geographic_locations:ip_addresses:job_titles:names:passwords:phone_numbers:spoken_languages:survey_results:usernames,0,,2.2M
+Exploit.In,October 2016,16/12/2024,email_addresses:passwords,0,,593.4M
+Anti Public Combo List,December 2016,16/10/2024,email_addresses:passwords,0,,458M
+Retina-X,February 2017,15/10/2024,email_addresses:passwords,0,,71.2K
+R2 (2017 forum breach),January 2017,05/12/2024,email_addresses:passwords:usernames:website_activity,0,,1M
+FashionFantasyGame,December 2016,11/03/2025,email_addresses:passwords,0,,2.4M
+Youku,December 2016,07/03/2025,email_addresses:passwords,0,,91.9M
+Health Now Networks,March 2017,08/08/2025,dates_of_birth:email_addresses:genders:health_insurance_information:ip_addresses:names:personal_health_data:phone_numbers:physical_addresses:security_questions_and_answers:social_connections,0,,321.9K
+Bitcoin Talk,May 2015,20/07/2025,dates_of_birth:email_addresses:genders:ip_addresses:passwords:security_questions_and_answers:usernames:website_activity,0,,501.4K
+Evony,June 2016,10/02/2025,email_addresses:ip_addresses:passwords:usernames,0,,29.4M
+HLTV,June 2016,09/09/2024,email_addresses:names:passwords:usernames:website_activity,0,,611.1K
+SweClockers.com,April 2015,04/11/2024,email_addresses:passwords:usernames,0,,254.9K
+Torrent Invites,December 2013,07/10/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,352.1K
+CrimeAgency vBulletin Hacks,January 2017,04/11/2024,email_addresses:passwords:usernames,0,,942K
+Soundwave,July 2015,16/12/2024,dates_of_birth:email_addresses:genders:geographic_locations:names:passwords:social_connections,0,,130.7K
+Wishbone (2016),August 2016,22/09/2024,auth_tokens:dates_of_birth:email_addresses:genders:names:phone_numbers:usernames,0,,2.2M
+NetProspex,September 2016,30/06/2025,email_addresses:employers:job_titles:names:phone_numbers:physical_addresses,0,,33.7M
+Ster-Kinekor,March 2017,17/03/2025,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:spoken_languages,0,,1.6M
+BTC-E,October 2014,11/10/2024,account_balances:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,568.3K
+River City Media Spam List,January 2017,22/05/2025,email_addresses:ip_addresses:names:physical_addresses,0,,393.4M
+Little Monsters,January 2017,12/04/2025,dates_of_birth:email_addresses:passwords:usernames,0,,995.7K
+CloudPets,January 2017,29/08/2025,email_addresses:family_members'_names:passwords,0,,583.5K
+Funimation,July 2016,06/01/2025,dates_of_birth:email_addresses:passwords:usernames,0,,2.5M
+Elance,January 2009,01/03/2025,email_addresses:employers:geographic_locations:passwords:phone_numbers:usernames,0,,1.3M
+Zoosk (2011),January 2011,15/09/2025,email_addresses:passwords,0,,52.6M
+Justdate.com,September 2016,15/11/2024,dates_of_birth:email_addresses:geographic_locations:names,0,,24.5M
+HongFire,March 2015,12/07/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,1000K
+Freedom Hosting II,January 2017,06/12/2024,email_addresses:passwords:usernames,0,,380.8K
+CD Projekt RED,March 2016,15/07/2025,email_addresses:passwords:usernames,0,,1.9M
+PSP ISO,September 2015,14/09/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.3M
+Xbox 360 ISO,September 2015,09/09/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.3M
+Non Nude Girls,May 2013,08/01/2025,email_addresses:ip_addresses:names:passwords:usernames:website_activity,0,,75.4K
+The Candid Board,September 2015,14/04/2025,dates_of_birth:email_addresses:geographic_locations:ip_addresses:passwords:usernames:website_activity,0,,178.2K
+MrExcel,December 2016,12/03/2025,dates_of_birth:email_addresses:ip_addresses:passwords:social_connections:usernames:website_activity,0,,366.1K
+Eroticy,June 2015,05/04/2025,email_addresses:ip_addresses:names:passwords:payment_histories:phone_numbers:physical_addresses:usernames:website_activity,0,,1.4M
+QIP,June 2011,30/07/2025,email_addresses:passwords:usernames:website_activity,0,,26.2M
+Pokémon Negro,October 2016,22/01/2025,email_addresses:ip_addresses:passwords,0,,830.2K
+DaniWeb,December 2015,10/10/2024,email_addresses:ip_addresses:passwords,0,,1.1M
+Пара Па,August 2016,15/09/2024,email_addresses:passwords:usernames,0,,4.9M
+Cross Fire,August 2016,15/10/2024,email_addresses:passwords:usernames,0,,12.9M
+uuu9,September 2016,07/09/2025,email_addresses:passwords:usernames,0,,7.5M
+Bot of Legends,November 2014,07/07/2025,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,238.4K
+OVH,May 2015,01/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,452.9K
+Kimsufi,May 2015,10/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,504.6K
+Ethereum,December 2016,02/09/2025,email_addresses:ip_addresses:passwords:private_messages:usernames:website_activity,0,,16.4K
+QuinStreet,December 2015,17/03/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,4.9M
+PayAsUGym,December 2016,31/08/2025,browser_user_agent_details:email_addresses:ip_addresses:names:partial_credit_card_data:passwords:phone_numbers:website_activity,0,,400.3K
+SC Daily Phone Spam List,April 2015,21/05/2025,dates_of_birth:email_addresses:genders:ip_addresses:names:physical_addresses,0,,32.9M
+Special K Data Feed Spam List,October 2015,03/10/2024,dates_of_birth:email_addresses:genders:ip_addresses:names:physical_addresses,0,,30.7M
+GeekedIn,August 2016,14/08/2025,email_addresses:geographic_locations:names:professional_skills:usernames:years_of_professional_experience,0,,1.1M
+Army Force Online,May 2016,22/05/2025,avatars:email_addresses:geographic_locations:ip_addresses:names:passwords:usernames:website_activity,0,,1.5M
+Dodonew.com,December 2011,03/09/2024,email_addresses:usernames,0,,8.7M
+Lookbook,August 2012,19/12/2024,dates_of_birth:email_addresses:ip_addresses:names:passwords:usernames:website_activity,0,,1.1M
+CheapAssGamer.com,July 2015,02/03/2025,email_addresses:ip_addresses:passwords:usernames,0,,444.8K
+Aipai.com,September 2016,11/12/2024,email_addresses:passwords,0,,6.5M
+Civil Online,July 2011,25/03/2025,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,7.8M
+Duowan.com,January 2011,26/06/2025,email_addresses:passwords:usernames,0,,2.6M
+War Inc.,July 2012,23/03/2025,email_addresses:passwords:usernames:website_activity,0,,1M
+Epic Games,August 2016,02/03/2025,email_addresses:passwords:usernames,0,,251.7K
+Unreal Engine,August 2016,27/04/2025,email_addresses:passwords:usernames,0,,530.1K
+Heroes of Gaia,January 2013,24/08/2025,browser_user_agent_details:email_addresses:ip_addresses:usernames:website_activity,0,,180K
+uTorrent,January 2016,19/02/2025,email_addresses:passwords:usernames,0,,395K
+Rambler,March 2014,25/09/2025,email_addresses:passwords:usernames,0,,91.4M
+Modern Business Solutions,October 2016,08/09/2024,dates_of_birth:email_addresses:genders:ip_addresses:job_titles:names:phone_numbers:physical_addresses,0,,58.8M
+GFAN,October 2016,01/10/2024,email_addresses:ip_addresses:passwords:usernames,0,,22.5M
+NetEase,October 2015,09/02/2025,email_addresses:passwords,0,,234.8M
+Taobao,January 2012,26/11/2024,email_addresses:passwords,0,,21.1M
+126,January 2012,21/04/2025,email_addresses:passwords,0,,6.4M
+Aternos,December 2015,24/12/2024,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,1.4M
+Leet,September 2016,28/02/2025,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,5.1M
+i-Dressup,July 2016,22/03/2025,email_addresses:passwords,0,,2.2M
+gPotato,July 2007,26/10/2024,dates_of_birth:email_addresses:genders:ip_addresses:names:passwords:physical_addresses:security_questions_and_answers:usernames:website_activity,0,,2.1M
+GameTuts,March 2015,01/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,2.1M
+Last.fm,March 2012,06/04/2025,email_addresses:passwords:usernames:website_activity,0,,37.2M
+MoDaCo,January 2016,04/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,879.7K
+eThekwini Municipality,September 2016,14/01/2025,dates_of_birth:deceased_date:email_addresses:genders:government_issued_ids:names:passport_numbers:passwords:phone_numbers:physical_addresses:utility_bills,0,,81.8K
+Regpack,May 2016,15/12/2024,browser_user_agent_details:credit_card_cvv:email_addresses:ip_addresses:names:partial_credit_card_data:phone_numbers:physical_addresses:purchases,0,,105K
+ClixSense,September 2016,21/08/2025,account_balances:dates_of_birth:email_addresses:genders:ip_addresses:names:passwords:payment_histories:payment_methods:physical_addresses:usernames:website_activity,0,,2.4M
+Pokébip,July 2015,26/08/2025,email_addresses:ip_addresses:passwords:time_zones:usernames:website_activity,0,,657K
+DLH.net,July 2016,11/05/2025,dates_of_birth:email_addresses:names:passwords:usernames:website_activity,0,,3.3M
+Experian (2015),September 2015,15/03/2025,credit_status_information:dates_of_birth:email_addresses:ethnicities:family_structure:genders:home_ownership_statuses:income_levels:ip_addresses:names:phone_numbers:physical_addresses:purchasing_habits,0,,7.2M
+Flash Flash Revolution (2016 breach),February 2016,28/04/2025,email_addresses:passwords:usernames,0,,1.8M
+Onverse,January 2016,03/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,800.2K
+WIIU ISO,September 2015,24/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,458.2K
+ServerPact,January 2016,24/06/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,73.6K
+Brazzers,April 2013,28/08/2025,email_addresses:passwords:usernames,0,,790.7K
+Dropbox,July 2012,01/01/2025,email_addresses:passwords,0,,68.6M
+InterPals,November 2015,04/01/2025,dates_of_birth:email_addresses:geographic_locations:names:passwords:usernames,0,,3.4M
+Nihonomaru,December 2015,09/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.7M
+Minecraft World Map,January 2016,07/01/2025,email_addresses:ip_addresses:passwords:usernames,0,,71.1K
+GTAGaming,August 2016,29/12/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,197.2K
+Teracod,May 2016,08/11/2024,avatars:email_addresses:ip_addresses:passwords:payment_histories:private_messages:usernames:website_activity,0,,97.2K
+xat,November 2015,08/02/2025,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,6M
+Warframe,November 2014,27/06/2025,email_addresses:usernames:website_activity,0,,819.5K
+Trillian,December 2015,09/05/2025,dates_of_birth:email_addresses:ip_addresses:names:passwords:usernames,0,,3.8M
+17,April 2016,28/06/2025,device_information:email_addresses:ip_addresses:passwords:usernames,0,,4M
+Neopets,May 2013,14/02/2025,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:names:passwords:usernames,0,,26.9M
+Badoo,June 2013,19/01/2025,dates_of_birth:email_addresses:genders:names:passwords:usernames,0,,112M
+iMesh,September 2013,24/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,49.5M
+Tianya,December 2011,23/11/2024,email_addresses:names:usernames,0,,29M
+Muslim Match,June 2016,21/05/2025,chat_logs:email_addresses:geographic_locations:ip_addresses:passwords:private_messages:user_statuses:usernames,0,,149.8K
+WHMCS,May 2012,08/06/2025,email_addresses:email_messages:employers:ip_addresses:names:partial_credit_card_data:passwords:payment_histories:physical_addresses:website_activity,0,,134K
+Uiggy,June 2016,18/10/2024,email_addresses:genders:names:social_connections:website_activity,0,,2.7M
+VK,January 2012,30/06/2025,email_addresses:names:passwords:phone_numbers,0,,93.3M
+BitTorrent,January 2016,29/06/2025,email_addresses:ip_addresses:passwords:usernames,0,,34.2K
+MySpace,July 2008,09/06/2025,email_addresses:passwords:usernames,0,,359.4M
+tumblr,February 2013,15/06/2025,email_addresses:passwords,0,,65.5M
+Fling,March 2011,17/08/2025,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:passwords:phone_numbers:sexual_fetishes:sexual_orientations:usernames:website_activity,0,,40.8M
+Fur Affinity,May 2016,27/06/2025,email_addresses:passwords:usernames,0,,1.3M
+LinkedIn,May 2012,24/10/2024,email_addresses:passwords,0,,164.6M
+Rosebutt Board,May 2016,11/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,107.3K
+Nulled.cr,May 2016,01/02/2025,dates_of_birth:email_addresses:ip_addresses:passwords:private_messages:usernames:website_activity,0,,599.1K
+Qatar National Bank,July 2015,03/07/2025,bank_account_numbers:customer_feedback:dates_of_birth:financial_transactions:genders:geographic_locations:government_issued_ids:ip_addresses:marital_statuses:names:passwords:phone_numbers:physical_addresses:pins:security_questions_and_answers:spoken_languages,0,,88.7K
+Lifeboat,January 2016,15/09/2024,email_addresses:passwords:usernames,0,,7.1M
+Beautiful People,November 2015,22/05/2025,beauty_ratings:car_ownership_statuses:dates_of_birth:drinking_habits:education_levels:email_addresses:genders:geographic_locations:home_ownership_statuses:income_levels:ip_addresses:job_titles:names:passwords:personal_descriptions:personal_interests:physical_attributes:sexual_orientations:smoking_habits:website_activity,0,,1.1M
+TruckersMP,February 2016,09/09/2024,email_addresses:passwords:usernames,0,,84K
+Naughty America,March 2016,15/12/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,1.4M
+Mate1.com,February 2016,31/10/2024,astrological_signs:dates_of_birth:drinking_habits:drug_habits:education_levels:email_addresses:ethnicities:fitness_levels:genders:geographic_locations:income_levels:job_titles:names:parenting_plans:passwords:personal_descriptions:physical_attributes:political_views:relationship_statuses:religions:sexual_fetishes:travel_habits:usernames:website_activity:work_habits,0,,27.4M
+COMELEC (Philippines Voters),March 2016,31/08/2025,biometric_data:dates_of_birth:email_addresses:family_members'_names:genders:job_titles:marital_statuses:names:passport_numbers:phone_numbers:physical_addresses:physical_attributes,0,,228.6K
+The Fappening,December 2015,24/11/2024,email_addresses:passwords:usernames,0,,179K
+Avast,May 2014,16/12/2024,email_addresses:passwords:usernames,0,,423K
+Lord of the Rings Online,August 2013,13/09/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,1.1M
+Dungeons & Dragons Online,April 2013,25/08/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,1.6M
+Team SoloMid,December 2014,17/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,442.2K
+Malwarebytes,November 2014,09/03/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,111.6K
+Minefield,June 2015,02/02/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,188.3K
+Seedpeer,July 2015,01/04/2025,email_addresses:passwords:usernames,0,,281.9K
+Sumo Torrent,June 2014,09/12/2024,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,285.2K
+WildStar,July 2015,03/04/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,738.6K
+Acne.org,November 2014,28/10/2024,dates_of_birth:email_addresses:ip_addresses:passwords:usernames,0,,432.9K
+KM.RU,February 2016,07/07/2025,dates_of_birth:email_addresses:genders:geographic_locations:recovery_email_addresses:security_questions_and_answers:usernames,0,,1.5M
+MajorGeeks,November 2015,13/07/2025,email_addresses:ip_addresses:passwords:usernames,0,,269.5K
+Nival,February 2016,28/10/2024,avatars:dates_of_birth:email_addresses:genders:names:spoken_languages:usernames:website_activity,0,,1.5M
+iPmart,July 2015,06/12/2024,dates_of_birth:email_addresses:passwords:usernames,0,,2.5M
+SkTorrent,February 2016,12/06/2025,email_addresses:passwords:usernames,0,,117.1K
+Linux Mint,February 2016,15/02/2025,avatars:dates_of_birth:email_addresses:geographic_locations:ip_addresses:passwords:time_zones:website_activity,0,,145K
+R2Games,November 2015,17/09/2025,email_addresses:ip_addresses:passwords:usernames,0,,22.3M
+Comcast,November 2015,17/09/2024,email_addresses:passwords:physical_addresses,0,,616.9K
+Plex,July 2015,20/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,327.3K
+Xbox-Scene,February 2015,28/04/2025,email_addresses:ip_addresses:passwords:usernames,0,,432.6K
+PS3Hax,July 2015,01/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,447.4K
+PSX-Scene,February 2015,06/12/2024,email_addresses:ip_addresses:passwords:usernames,0,,341.1K
+OwnedCore,August 2013,12/02/2025,email_addresses:ip_addresses:passwords:usernames,0,,880.3K
+Gamerzplanet,October 2015,15/09/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.2M
+Heroes of Newerth,December 2012,19/03/2025,email_addresses:passwords:usernames,0,,8.1M
+vBulletin,November 2015,14/09/2025,dates_of_birth:email_addresses:homepage_urls:instant_messenger_identities:ip_addresses:passwords:security_questions_and_answers:spoken_languages:website_activity,0,,519K
+Gamigo,March 2012,05/06/2025,email_addresses:passwords,0,,8.2M
+Nexus Mods,July 2013,14/03/2025,email_addresses:passwords:usernames,0,,5.9M
+Android Forums,October 2011,04/11/2024,dates_of_birth:email_addresses:homepage_urls:instant_messenger_identities:ip_addresses:passwords,0,,745.4K
+Neteller,May 2010,23/08/2025,account_balances:dates_of_birth:email_addresses:genders:ip_addresses:names:phone_numbers:physical_addresses:security_questions_and_answers:website_activity,0,,3.6M
+Money Bookers,January 2009,12/04/2025,dates_of_birth:email_addresses:ip_addresses:names:phone_numbers:physical_addresses,0,,4.5M
+VTech,November 2015,19/07/2025,dates_of_birth:email_addresses:family_members'_names:genders:ip_addresses:names:passwords:physical_addresses:security_questions_and_answers:usernames:website_activity,0,,4.8M
+Foxy Bingo,April 2008,14/08/2025,account_balances:browser_user_agent_details:dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:usernames:website_activity,0,,252.2K
+Black Hat World,June 2014,16/10/2024,dates_of_birth:email_addresses:instant_messenger_identities:ip_addresses:passwords:usernames:website_activity,0,,777.4K
+Mac-Torrents,October 2015,07/02/2025,email_addresses:passwords:usernames,0,,94K
+Final Fantasy Shrine,September 2015,19/05/2025,email_addresses:passwords:usernames:website_activity,0,,620.7K
+PHP Freaks,October 2015,03/03/2025,dates_of_birth:email_addresses:ip_addresses:passwords:usernames:website_activity,0,,173.9K
+000webhost,March 2015,02/03/2025,email_addresses:ip_addresses:names:passwords,0,,14.9M
+MPGH,October 2015,05/09/2024,email_addresses:ip_addresses:passwords:usernames,0,,3.1M
+Paddy Power,October 2010,23/12/2024,account_balances:dates_of_birth:email_addresses:ip_addresses:names:phone_numbers:physical_addresses:security_questions_and_answers:usernames:website_activity,0,,591K
+MyVidster,August 2015,20/05/2025,email_addresses:passwords:usernames,0,,19.9K
+Patreon,October 2015,01/09/2025,email_addresses:passwords:payment_histories:physical_addresses:private_messages:website_activity,0,,2.3M
+Ashley Madison,July 2015,06/12/2024,dates_of_birth:email_addresses:ethnicities:genders:names:passwords:payment_histories:phone_numbers:physical_addresses:security_questions_and_answers:sexual_orientations:usernames:website_activity,0,,30.8M
+XSplit,November 2013,30/04/2025,email_addresses:names:passwords:usernames,0,,3M
+YouPorn,February 2012,29/04/2025,email_addresses:passwords,0,,1.3M
+Hacking Team,July 2015,13/02/2025,email_addresses:email_messages,0,,32.3K
+Hemmakväll,July 2015,27/04/2025,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,47.3K
+myRepoSpace,July 2015,10/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,252.8K
+Minecraft Pocket Edition Forum,May 2015,18/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,16K
+NextGenUpdate,April 2014,30/05/2025,email_addresses:ip_addresses:passwords:usernames,0,,1.2M
+mSpy,May 2015,16/05/2025,device_usage_tracking_data,0,,699.8K
+Adult FriendFinder (2015),May 2015,19/06/2025,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:races:relationship_statuses:sexual_orientations:spoken_languages:usernames,0,,3.9M
+Спрашивай.ру,May 2015,07/07/2025,dates_of_birth:email_addresses:genders:geographic_locations:ip_addresses:passwords:spoken_languages,0,,3.5M
+Telecom Regulatory Authority of India,April 2015,21/02/2025,email_addresses:email_messages,0,,107.8K
+StarNet,February 2015,30/09/2024,customer_interactions:dates_of_birth:email_addresses:genders:ip_addresses:mac_addresses:names:passport_numbers:passwords:phone_numbers,0,,139.4K
+Quantum Booter,March 2014,20/03/2025,email_addresses:ip_addresses:passwords:private_messages:usernames:website_activity,0,,48.6K
+ThisHabbo Forum,January 2014,23/11/2024,email_addresses:ip_addresses:passwords:usernames,0,,612.4K
+Flashback,February 2015,09/07/2025,email_addresses:government_issued_ids:physical_addresses,0,,40.3K
+Crack Community,September 2013,12/09/2025,email_addresses:ip_addresses:passwords:usernames:website_activity,0,,19.2K
+Lizard Squad,January 2015,12/07/2025,email_addresses:passwords:usernames,0,,13.5K
+Domino's,June 2014,13/11/2024,email_addresses:names:passwords:phone_numbers:physical_addresses,0,,648.2K
+AhaShare.com,May 2013,24/08/2025,email_addresses:genders:geographic_locations:ip_addresses:partial_dates_of_birth:passwords:usernames:website_activity,0,,180.5K
+Yandex Dump,September 2014,04/01/2025,email_addresses:passwords,0,,1.2M
+mail.ru Dump,September 2014,29/09/2024,email_addresses:passwords,0,,16.6M
+Bitcoin Security Forum Gmail Dump,January 2014,29/07/2025,email_addresses:passwords,0,,4.8M
+Pokémon Creed,August 2014,13/09/2024,email_addresses:genders:ip_addresses:passwords:usernames:website_activity,0,,116.5K
+Insanelyi,July 2014,15/09/2024,email_addresses:passwords:usernames:website_activity,0,,104.1K
+Lounge Board,August 2013,25/07/2025,email_addresses:ip_addresses:names:passwords:private_messages:usernames:website_activity,0,,45K
+Verified,January 2014,10/01/2025,email_addresses:historical_passwords:ip_addresses:passwords:private_messages:usernames:website_activity,0,,16.9K
+Astropid,December 2013,12/03/2025,email_addresses:instant_messenger_identities:ip_addresses:names:passwords:private_messages:usernames:website_activity,0,,5.8K
+Manga Traders,June 2014,17/03/2025,email_addresses:passwords,0,,855.2K
+Win7Vista Forum,September 2013,27/04/2025,email_addresses:instant_messenger_identities:ip_addresses:names:passwords:private_messages:usernames:website_activity,0,,202.7K
+Cannabis.com,February 2014,28/09/2024,dates_of_birth:email_addresses:geographic_locations:historical_passwords:instant_messenger_identities:ip_addresses:passwords:private_messages:usernames:website_activity,0,,227.7K
+hackforums.net,June 2011,16/09/2024,dates_of_birth:email_addresses:instant_messenger_identities:ip_addresses:passwords:social_connections:spoken_languages:time_zones:user_website_urls:usernames:website_activity,0,,191.5K
+Business Acumen Magazine,April 2014,13/09/2024,email_addresses:names:passwords:usernames:website_activity,0,,26.6K
+Fridae,May 2014,22/09/2025,email_addresses:passwords:usernames:website_activity,0,,35.4K
+BigMoneyJobs,April 2014,18/10/2024,career_levels:education_levels:email_addresses:names:passwords:phone_numbers:physical_addresses:salutations:user_website_urls:website_activity,0,,36.8K
+Boxee,March 2014,21/02/2025,dates_of_birth:email_addresses:geographic_locations:historical_passwords:instant_messenger_identities:ip_addresses:passwords:private_messages:user_website_urls:usernames,0,,158.1K
+hemmelig.com,December 2011,15/11/2024,email_addresses:genders:nicknames:partial_dates_of_birth:passwords:usernames,0,,28.6K
+UN Internet Governance Forum,February 2014,11/04/2025,email_addresses:names:passwords:usernames,0,,3.2K
+Muslim Directory,February 2014,19/05/2025,age_groups:email_addresses:employers:names:passwords:phone_numbers:physical_addresses:website_activity,0,,37.8K
+Spirol,February 2014,11/10/2024,email_addresses:employers:job_titles:names:phone_numbers:physical_addresses,0,,55.6K
+Forbes,February 2014,23/05/2025,email_addresses:passwords:user_website_urls:usernames,0,,1.1M
+Tesco,February 2014,24/09/2025,email_addresses:passwords:reward_program_balances,0,,2.2K
+Bell (2014 breach),February 2014,09/12/2024,credit_cards:genders:passwords:usernames,0,,20.9K
+WPT Amateur Poker League,January 2014,16/12/2024,email_addresses:passwords,0,,148.4K
+Battlefield Heroes,June 2011,04/07/2025,passwords:usernames,0,,530.3K
+Snapchat,January 2014,29/05/2025,geographic_locations:phone_numbers:usernames,0,,4.6M
+Pixel Federation,December 2013,30/08/2025,email_addresses:passwords,0,,38.1K
+Adobe,October 2013,19/08/2025,email_addresses:password_hints:passwords:usernames,0,,152.4M
+Gawker,December 2010,28/01/2025,email_addresses:passwords:usernames,0,,1.2M
+Sony,June 2011,18/09/2024,dates_of_birth:email_addresses:genders:names:passwords:phone_numbers:physical_addresses:usernames,0,,37.1K
+Stratfor,December 2011,23/10/2024,credit_cards:email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,859.8K
+Yahoo,July 2012,27/09/2024,email_addresses:passwords,0,,453.4K
+Vodafone,November 2013,01/11/2024,credit_cards:email_addresses:government_issued_ids:ip_addresses:names:passwords:phone_numbers:physical_addresses:purchases:sms_messages:usernames,0,,56K
