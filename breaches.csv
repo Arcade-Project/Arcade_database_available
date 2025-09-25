@@ -907,3 +907,8 @@ Sony,June 2011,18/09/2024,dates_of_birth:email_addresses:genders:names:passwords
 Stratfor,December 2011,23/10/2024,credit_cards:email_addresses:names:passwords:phone_numbers:physical_addresses:usernames,0,,859.8K
 Yahoo,July 2012,27/09/2024,email_addresses:passwords,0,,453.4K
 Vodafone,November 2013,01/11/2024,credit_cards:email_addresses:government_issued_ids:ip_addresses:names:passwords:phone_numbers:physical_addresses:purchases:sms_messages:usernames,0,,56K
+BNI,December 2023, 30/11/2024,name:business_name:profession:phonenumber,0,The leading business network in France Europe and the world,13.5K
+Chuvashia Residents,August 2025, 28/09/2025,name:date_of_birth:type_of_document:document_series_and_number:issuing_authority:date_of_document_issuance:place_of_birth:address,0,,1.4M
+FRAP.CD,username:password:prf_id:sec_id:prenom:nom:sexe:postnom:email:phone:ref_doc_designation:doc_designation:last_login:last_password_updated:creation_time:created_by:last_update_time:last_updated_by:status,0,,1.136K
+Israel Citizens,August 2025, 28/09/2025,phone:uid:email:first_name:last_name:gender:date_registered:birthday:location:hometown:relationship_status:education_last_year:work:groups:pages:last_update:creation_time,0,,3.9M
+ffr.fr,June 2025, 28/09/2025,email:name:surname:dob:phone1:phone2,0,,334.135K
