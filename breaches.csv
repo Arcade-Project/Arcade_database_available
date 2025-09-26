@@ -1,5 +1,5 @@
-nom,date_breach,date_upload_arcade,header,clean,description,affected_accounts,tags,countrys
-Cultura,September 2024,01/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,French retail chain for books, music & cultural products,1.5M,retail,FR
+nom,date_breach,date_upload_arcade,header,clean,description,affected_accounts
+Cultura,September 2024,01/09/2024,email_addresses:names:phone_numbers:physical_addresses:purchases,0,French retail chain for books, music & cultural products,1.5M
 Bouygue Telecom,August 2025,31/08/2025,bank_account_numbers:dates_of_birth:email_addresses:names:phone_numbers:physical_addresses,0,French telecommunications company,5.7M
 Animeify,October 2021,29/11/2024,email_addresses:genders:names:passwords:usernames,0,Anime streaming and community platform,808K
 Freeones,February 2017,23/03/2025,email_addresses:ip_addresses:passwords:usernames,0,Adult entertainment website,960.2K
