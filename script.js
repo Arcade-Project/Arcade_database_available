@@ -177,12 +177,12 @@ function createTableRow(breach) {
     
     row.innerHTML = `
         <td><strong>${escapeHtml(breach.nom)}</strong></td>
+        <td>${escapeHtml(breach.description)}</td>
         <td>${formatDate(breach.date_breach)}</td>
         <td>${formatDate(breach.date_upload_arcade)}</td>
         <td><code class="header-column" title="${escapeHtml(breach.header)}">${escapeHtml(breach.header)}</code></td>
         <td><span class="clean-status clean-${breach.clean}">${breach.clean === '1' ? 'Clean' : 'Uncleaned'}</span></td>
         <td class="size-column">${escapeHtml(breach.affected_accounts)}</td>
-        <td>${escapeHtml(breach.description)}</td>
     `;
     
 
@@ -488,7 +488,7 @@ function exportToCSV() {
         return;
     }
     
-    const headers = ['nom', 'date_breach', 'date_upload_arcade', 'header', 'clean', 'description', 'taille'];
+    const headers = ['nom', 'description', 'date_breach', 'date_upload_arcade', 'header', 'clean', 'affected_accounts'];
     const csvContent = [
         headers.join(','),
         ...filteredData.map(row => 
